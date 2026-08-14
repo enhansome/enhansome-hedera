@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T02:54:03Z",
+            "last_commit": "2026-08-14T08:51:11Z",
             "owner": "hiero-ledger",
             "repo": "hiero-sdk-js",
-            "stars": 328
+            "stars": 327
           }
         },
         {
@@ -535,7 +535,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-12T20:16:37Z",
+                "last_commit": "2026-08-14T17:07:49Z",
                 "owner": "hashgraph",
                 "repo": "pbj",
                 "stars": 44
@@ -573,7 +573,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T17:59:12Z",
+            "last_commit": "2026-08-14T17:30:26Z",
             "owner": "hiero-ledger",
             "repo": "solo",
             "stars": 43
@@ -615,7 +615,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T17:51:45Z",
+            "last_commit": "2026-08-14T14:40:50Z",
             "owner": "hiero-ledger",
             "repo": "hiero-block-node",
             "stars": 37
@@ -806,7 +806,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-13T17:28:20Z",
+                "last_commit": "2026-08-14T15:19:03Z",
                 "owner": "hashgraph",
                 "repo": "asset-tokenization-studio",
                 "stars": 32
@@ -870,7 +870,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T18:01:55.635Z",
+    "last_updated": "2026-08-14T17:59:14.238Z",
     "original_repository": "hashgraph/awesome-hedera",
     "original_repository_sha": "f6ba8e04de82e4f2b0a365b3b891ae963459033b",
     "enhanced_repository": "enhansome/enhansome-hedera",
