@@ -277,7 +277,7 @@
             "last_commit": "2025-01-14T22:50:01Z",
             "owner": "hashgraph",
             "repo": "hedera-hardhat-example-project",
-            "stars": 9
+            "stars": 10
           }
         },
         {
@@ -573,7 +573,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T16:22:25Z",
+            "last_commit": "2026-08-16T17:25:46Z",
             "owner": "hiero-ledger",
             "repo": "solo",
             "stars": 43
@@ -870,7 +870,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:29:51.313Z",
+    "last_updated": "2026-08-16T17:28:42.700Z",
     "original_repository": "hashgraph/awesome-hedera",
     "original_repository_sha": "f6ba8e04de82e4f2b0a365b3b891ae963459033b",
     "enhanced_repository": "enhansome/enhansome-hedera",

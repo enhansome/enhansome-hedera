@@ -84,7 +84,7 @@ This section features open source projects in the [Hedera](https://www.hedera.co
 ### **Software Development Kits (SDKs)**
 
 * [JavaScript SDK](https://github.com/hiero-ledger/hiero-sdk-js) ⭐ 327 | 🐛 72 | 🌐 JavaScript | 📅 2026-08-14 - the official JavaScript SDK for interacting with Hedera.
-* [Java SDK](https://github.com/hiero-ledger/hiero-sdk-java) ⭐ 259 | 🐛 47 | 🌐 Java | 📅 2026-08-12 - the official Java SDK for interacting with Hedera.
+* [Java SDK](https://github.com/hiero-ledger/hiero-sdk-java) ⭐ 259 | 🐛 48 | 🌐 Java | 📅 2026-08-12 - the official Java SDK for interacting with Hedera.
 * [Go SDK](https://github.com/hiero-ledger/hiero-sdk-go) ⭐ 127 | 🐛 32 | 🌐 Go | 📅 2026-08-12 - the official Go SDK for interacting with Hedera.
 * [Rust SDK](https://github.com/hashgraph/hedera-sdk-rust) ⭐ 58 | 🐛 81 | 🌐 Rust | 📅 2026-08-05 - the official Rust SDK for interacting with Hedera.
 * [DiD SDK (JavaScript)](https://github.com/hashgraph/did-sdk-js) ⭐ 43 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-15 - Javascript SDK for managing DID Documents & Verifiable Credentials.
@@ -105,7 +105,7 @@ This section features open source projects in the [Hedera](https://www.hedera.co
 * [Proof of Action microservice](https://github.com/hashgraph/hedera-proof-of-action-microservice) ⭐ 26 | 🐛 0 | 🌐 Java | 📅 2024-10-31 - The Hedera Proof of Action (HPoA) microservice aims to make it easy for organizations to build a capability to record and subsequently prove the existence of business events using the Hedera Consensus Service.
 * [Code snippets](https://github.com/hedera-dev/hedera-code-snippets) ⭐ 17 | 🐛 0 | 🌐 Solidity | 📅 2025-12-24 - Short, Self Contained, Correct Examples of code on Hedera.
 * [Create React App Hedera Dapp Template](https://github.com/hedera-dev/cra-hedera-dapp-template) ⭐ 17 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-16 - Hedera DApp Starter Template using Create React App, Material UI and Typescript with Hedera native wallet support and MetaMask wallet support.
-* [Hardhat example project](https://github.com/hashgraph/hedera-hardhat-example-project) ⭐ 9 | 🐛 3 | 🌐 JavaScript | 📅 2025-01-14 - This Hedera Hardhat Example Project offers boilerplate code for testing and deploying smart contracts via Hardhat. It includes configuration for both community-hosted and local (Hedera Local Node) instances of the Hedera JSON RPC Relay.
+* [Hardhat example project](https://github.com/hashgraph/hedera-hardhat-example-project) ⭐ 10 | 🐛 3 | 🌐 JavaScript | 📅 2025-01-14 - This Hedera Hardhat Example Project offers boilerplate code for testing and deploying smart contracts via Hardhat. It includes configuration for both community-hosted and local (Hedera Local Node) instances of the Hedera JSON RPC Relay.
 * [Hedera Subgraph Example](https://github.com/hashgraph/hedera-subgraph-example) ⭐ 6 | 🐛 3 | 🌐 TypeScript | 📅 2025-01-15 - The Hedera Subgraph Example Project demonstrates how to create and deploy a subgraph to a local graph node using The Graph Protocol. Based on the Hedera Hardhat Example Project Repository.
 * [Hedera DApp Integrated with WalletConnec](https://github.com/hedera-dev/multi-wallet-hedera-transfer-dapp) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-16t - Explore DApp development using the Mirror Node API and Hedera Token Service (HTS). Discover how to integrate HTS functionality into your DApp for seamless token management and transactions. This guide uses React, Material UI, Ethers, and TypeScript with the Create React App (CRA) Hedera DApp template integrated with walletconnect, streamlining your development process.
 * [Hedera DApp CRA Template](https://github.com/hedera-dev/cra-hedera-dapp-template-js) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2025-12-16 - Hedera DApp Starter Template using Create React App, Material UI and JavaScript with HashPack, Blade, and MetaMask wallet support.
@@ -132,7 +132,7 @@ This section features open source projects in the [Hedera](https://www.hedera.co
   * [Google Protocol Buffers](https://github.com/hashgraph/pbj) ⭐ 44 | 🐛 68 | 🌐 Java | 📅 2026-08-14 code generator, parser, and Gradle module.
 * [HashScan](https://github.com/hashgraph/hedera-mirror-node-explorer) ⭐ 48 | 🐛 126 | 🌐 TypeScript | 📅 2026-08-11 - Visual Explorer for the Hiero DLT.
   * <https://hashscan.io/mainnet/dashboard>
-* [Solo](https://github.com/hashgraph/solo) ⭐ 43 | 🐛 258 | 🌐 TypeScript | 📅 2026-08-15 - An opinionated CLI tool to deploy and manage standalone test networks.
+* [Solo](https://github.com/hashgraph/solo) ⭐ 43 | 🐛 259 | 🌐 TypeScript | 📅 2026-08-16 - An opinionated CLI tool to deploy and manage standalone test networks.
 * [Hedera CLI](https://github.com/hashgraph/hedera-cli) ⭐ 43 | 🐛 81 | 🌐 TypeScript | 📅 2026-08-05 - A simple, open source, command line interface for interacting with both the Hedera Mainnet and Testnet.
 * [Walletconnect](https://github.com/hashgraph/hedera-wallet-connect) ⭐ 40 | 🐛 18 | 🌐 TypeScript | 📅 2026-07-13 - This repository is a reference for wallets and dApps integrating the WalletConnect <> Hedera JSON-RPC reference.
 * [Block Node](https://github.com/hashgraph/hedera-block-node) ⭐ 37 | 🐛 470 | 🌐 Java | 📅 2026-08-14 - Implementation of the Hedera Block Node, which is responsible for consuming the block streams, maintaining state and exposing additional targeted value adding APIs to the Hedera community.
@@ -377,8 +377,8 @@ Featuring projects built on top of or integrated with the [Hedera](https://www.h
 
 ## Contributing
 
-We're always looking for awesome projects that showcase Hedera! If you know of anything missing here, please [submit a pull request](https://github.com/hashgraph/awesome-hashgraph/pulls) ⭐ 324 | 🐛 8 | 📅 2025-02-10!\
-When submitting, please try to maintain the existing structure and alphabetical order where possible. If you need to change the structure or other "meta" alterations, please [create a new issue](https://github.com/hashgraph/awesome-hashgraph) ⭐ 324 | 🐛 8 | 📅 2025-02-10.
+We're always looking for awesome projects that showcase Hedera! If you know of anything missing here, please [submit a pull request](https://github.com/hashgraph/awesome-hashgraph/pulls) ⭐ 324 | 🐛 7 | 📅 2025-02-10!\
+When submitting, please try to maintain the existing structure and alphabetical order where possible. If you need to change the structure or other "meta" alterations, please [create a new issue](https://github.com/hashgraph/awesome-hashgraph) ⭐ 324 | 🐛 7 | 📅 2025-02-10.
 
 ## License
 
@@ -386,4 +386,4 @@ When submitting, please try to maintain the existing structure and alphabetical 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
