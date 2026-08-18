@@ -16,7 +16,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T02:55:39Z",
+            "last_commit": "2026-08-18T12:27:27Z",
             "owner": "hiero-ledger",
             "repo": "hiero-sdk-js",
             "stars": 327
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T12:09:59Z",
+            "last_commit": "2026-08-18T14:06:07Z",
             "owner": "hiero-ledger",
             "repo": "hiero-sdk-java",
             "stars": 259
@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T10:20:19Z",
+            "last_commit": "2026-08-18T14:56:02Z",
             "owner": "hiero-ledger",
             "repo": "hiero-sdk-go",
             "stars": 127
@@ -142,7 +142,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T08:23:41Z",
+            "last_commit": "2026-08-18T12:27:43Z",
             "owner": "hiero-ledger",
             "repo": "hiero-sdk-tck",
             "stars": 23
@@ -535,7 +535,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-14T17:07:49Z",
+                "last_commit": "2026-08-18T16:18:48Z",
                 "owner": "hashgraph",
                 "repo": "pbj",
                 "stars": 44
@@ -559,7 +559,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T13:32:19Z",
+            "last_commit": "2026-08-18T13:54:31Z",
             "owner": "hiero-ledger",
             "repo": "hiero-mirror-node-explorer",
             "stars": 48
@@ -573,7 +573,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T13:58:35Z",
+            "last_commit": "2026-08-18T17:32:14Z",
             "owner": "hiero-ledger",
             "repo": "solo",
             "stars": 43
@@ -615,7 +615,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T16:47:00Z",
+            "last_commit": "2026-08-18T17:07:58Z",
             "owner": "hiero-ledger",
             "repo": "hiero-block-node",
             "stars": 37
@@ -806,7 +806,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T15:35:20Z",
+                "last_commit": "2026-08-18T14:57:21Z",
                 "owner": "hashgraph",
                 "repo": "asset-tokenization-studio",
                 "stars": 32
@@ -870,7 +870,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T17:36:29.853Z",
+    "last_updated": "2026-08-18T17:36:07.150Z",
     "original_repository": "hashgraph/awesome-hedera",
     "original_repository_sha": "f6ba8e04de82e4f2b0a365b3b891ae963459033b",
     "enhanced_repository": "enhansome/enhansome-hedera",
