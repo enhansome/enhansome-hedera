@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 231656330,
                 "language": "Go",
-                "last_commit": "2026-08-19T11:16:45Z",
+                "last_commit": "2026-08-19T12:43:03Z",
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-go",
                 "stars": 127
@@ -558,7 +558,7 @@
                     "archived": false,
                     "id": 562238140,
                     "language": "Java",
-                    "last_commit": "2026-08-19T11:54:41Z",
+                    "last_commit": "2026-08-19T16:52:44Z",
                     "owner": "hashgraph",
                     "repo": "pbj",
                     "stars": 44
@@ -599,7 +599,7 @@
                 "archived": false,
                 "id": 751097461,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T09:17:07Z",
+                "last_commit": "2026-08-19T14:47:02Z",
                 "owner": "hiero-ledger",
                 "repo": "solo",
                 "stars": 43
@@ -644,7 +644,7 @@
                 "archived": false,
                 "id": 801196644,
                 "language": "Java",
-                "last_commit": "2026-08-19T11:33:00Z",
+                "last_commit": "2026-08-19T16:59:54Z",
                 "owner": "hiero-ledger",
                 "repo": "hiero-block-node",
                 "stars": 37
@@ -829,7 +829,7 @@
                     "archived": false,
                     "id": 787087690,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-19T11:59:52Z",
+                    "last_commit": "2026-08-19T14:46:11Z",
                     "owner": "hashgraph",
                     "repo": "asset-tokenization-studio",
                     "stars": 32
@@ -869,7 +869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:32:54.746Z",
+    "last_updated": "2026-08-19T17:34:50.238Z",
     "original_repository": "hashgraph/awesome-hedera",
     "original_repository_id": 108934391,
     "original_repository_sha": "f6ba8e04de82e4f2b0a365b3b891ae963459033b",
