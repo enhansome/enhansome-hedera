@@ -2,876 +2,876 @@
   "items": [
     {
       "description": "This section features open source projects in the Hedera ecosystem.",
-      "items": [],
-      "title": "Open Source Developer Assets"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "item",
-          "title": "JavaScript SDK",
-          "description": "the official JavaScript SDK for interacting with Hedera.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-18T12:27:27Z",
-            "owner": "hiero-ledger",
-            "repo": "hiero-sdk-js",
-            "stars": 327
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Java SDK",
-          "description": "the official Java SDK for interacting with Hedera.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T14:06:07Z",
-            "owner": "hiero-ledger",
-            "repo": "hiero-sdk-java",
-            "stars": 259
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Go SDK",
-          "description": "the official Go SDK for interacting with Hedera.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T14:56:02Z",
-            "owner": "hiero-ledger",
-            "repo": "hiero-sdk-go",
-            "stars": 127
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rust SDK",
-          "description": "the official Rust SDK for interacting with Hedera.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-05T07:11:51Z",
-            "owner": "hiero-ledger",
-            "repo": "hiero-sdk-rust",
-            "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DiD SDK (JavaScript)",
-          "description": "Javascript SDK for managing DID Documents & Verifiable Credentials.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-15T12:51:22Z",
-            "owner": "hashgraph",
-            "repo": "did-sdk-js",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "C++ SDK",
-          "description": "the official C++ SDK for interacting with Hedera.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-13T00:23:34Z",
-            "owner": "hiero-ledger",
-            "repo": "hiero-sdk-cpp",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Swift SDK",
-          "description": "the official Swift SDK for interacting with Hedera.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2026-08-10T09:29:09Z",
-            "owner": "hiero-ledger",
-            "repo": "hiero-sdk-swift",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DiD SDK (Java)",
-          "description": "Java SDK for managing DID Documents & Verifiable Credentials.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-06-01T02:45:03Z",
-            "owner": "hashgraph",
-            "repo": "did-sdk-java",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DiD Method",
-          "description": "This repository contains the Hedera DID method specification.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-01-14T21:54:36Z",
-            "owner": "hashgraph",
-            "repo": "did-method",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SDK TCK",
-          "description": "A TCK (Technology Compatibility Kit) used to verify compliant implementations of a Hiero SDK.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T12:27:43Z",
-            "owner": "hiero-ledger",
-            "repo": "hiero-sdk-tck",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NFT SDK",
-          "description": "Hedera NFT Utilities SDK for JavaScript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-15T12:54:50Z",
-            "owner": "hashgraph",
-            "repo": "hedera-nft-sdk",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hedera Custodians Library",
-          "description": "The hedera-custodians-library library is a Typescript utility designed to simplify custodial wallet management. It provides developers with tools to abstract complex aspects of custodial wallets, allowing them to focus on their application's core logic.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-08T20:58:46Z",
-            "owner": "hashgraph",
-            "repo": "hedera-custodians-library",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Software Development Kits (SDKs)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "HTS Demo",
-          "description": "This demo is a user interface written in Javascript (Vue.JS) to illustrate the use of the Hedera Token Service.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Vue",
-            "last_commit": "2025-01-14T20:05:51Z",
-            "owner": "hashgraph",
-            "repo": "hedera-hts-demo",
-            "stars": 79
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hedera Smart Contract Starter",
-          "description": "This project provides a hands-on demonstration of using upgradeable smart contracts with OpenZeppelin's upgrades plugins in Hardhat. Specifically, it is a smart contract starter project that illustrates the use of both Proxies and Beacon Proxies.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-01-15T15:18:20Z",
-            "owner": "hashgraph",
-            "repo": "hedera-smart-contract-starter",
-            "stars": 42
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HCS Chat application",
-          "description": "An example web app which demonstrates how you can use decentralized pub-sub messaging on the Hedera Consensus Service.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-01-14T20:29:52Z",
-            "owner": "hashgraph",
-            "repo": "hedera-hcs-chat-js",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Proof of Action microservice",
-          "description": "The Hedera Proof of Action (HPoA) microservice aims to make it easy for organizations to build a capability to record and subsequently prove the existence of business events using the Hedera Consensus Service.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2024-10-31T11:29:16Z",
-            "owner": "hashgraph",
-            "repo": "hedera-proof-of-action-microservice",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Code snippets",
-          "description": "Short, Self Contained, Correct Examples of code on Hedera.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2025-12-24T17:25:09Z",
-            "owner": "hedera-dev",
-            "repo": "hedera-code-snippets",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Create React App Hedera Dapp Template",
-          "description": "Hedera DApp Starter Template using Create React App, Material UI and Typescript with Hedera native wallet support and MetaMask wallet support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-12-16T13:02:55Z",
-            "owner": "hedera-dev",
-            "repo": "template-ts-hedera-cra-dapp",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hardhat example project",
-          "description": "This Hedera Hardhat Example Project offers boilerplate code for testing and deploying smart contracts via Hardhat. It includes configuration for both community-hosted and local (Hedera Local Node) instances of the Hedera JSON RPC Relay.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-01-14T22:50:01Z",
-            "owner": "hashgraph",
-            "repo": "hedera-hardhat-example-project",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hedera Subgraph Example",
-          "description": "The Hedera Subgraph Example Project demonstrates how to create and deploy a subgraph to a local graph node using The Graph Protocol. Based on the Hedera Hardhat Example Project Repository.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-01-15T15:16:24Z",
-            "owner": "hashgraph",
-            "repo": "hedera-subgraph-example",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hedera DApp Integrated with WalletConnec",
-          "description": "t - Explore DApp development using the Mirror Node API and Hedera Token Service (HTS). Discover how to integrate HTS functionality into your DApp for seamless token management and transactions. This guide uses React, Material UI, Ethers, and TypeScript with the Create React App (CRA) Hedera DApp template integrated with walletconnect, streamlining your development process.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-12-16T11:08:34Z",
-            "owner": "hedera-dev",
-            "repo": "tutorial-ts-dapp-multi-wallet",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hedera DApp CRA Template",
-          "description": "Hedera DApp Starter Template using Create React App, Material UI and JavaScript with HashPack, Blade, and MetaMask wallet support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-12-16T11:15:42Z",
-            "owner": "hedera-dev",
-            "repo": "template-js-hedera-cra-dapp",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bridging with Layer Zero",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-11-05T01:10:21Z",
-            "owner": "hedera-dev",
-            "repo": "tutorial-js-layer-zero-bridging-oapp",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chainlink price feeds",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-10-29T23:46:43Z",
-            "owner": "hedera-dev",
-            "repo": "tutorial-js-chainlink-price-feeds",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Risk Calculator for Hedera Tokens",
-          "description": "Risk Calculator application serves as a tool to evaluate the risk associated with tokens on the Hedera network, specifically to assess the likelihood of a rug pull based on a token's properties. It calculates a risk score and levels by examining various risk factors like Admin Key, Supply Key, KYC Key, etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-07-23T11:28:19Z",
-            "owner": "hedera-dev",
-            "repo": "tool-nft-risk-calculator-for-hedera-tokens",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Airdrop Verifier",
-          "description": "The Airdrop Verifier is a utility that simplifies the process of organizing airdrops for Hedera tokens. Users can input a Token ID and a list of account IDs to which they wish to airdrop tokens. The application generates a list of addresses either associated with the token or having available auto-association slots, ensuring efficient and targeted airdrops.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-07-23T11:28:04Z",
-            "owner": "hedera-dev",
-            "repo": "tool-nft-airdrop-verifier",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rarity Inspector",
-          "description": "This project allows users to upload a .zip file through a dropzone to check how NFTs are presented (displayed in a gallery as cards that can be clicked to read detailed information about them) and their \"rarity\". The project presents charts showing these data and several other features. Additionally, sorting and filtering options are available to simplify data browsing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-07-23T11:27:39Z",
-            "owner": "hedera-dev",
-            "repo": "tool-nft-rarity-inspector",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Token Holders List Builder",
-          "description": "The Token Holders List Builder is a tool designed to efficiently generate lists of token holders who meet specific criteria, like holding a minimum number of NFTs from a particular collection. This can be especially useful for identifying key stakeholders or organizing targeted marketing campaigns within the NFT community. By automating what would otherwise be a complex data retrieval process, this tool simplifies analytics and community management for NFT projects.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-07-23T11:27:07Z",
-            "owner": "hedera-dev",
-            "repo": "tool-nft-token-holders-list-builder",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Supra Demo on Hedera | Push",
-          "description": "This example shows how to use Supra Oracles real-world data feeds (Push model).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-02-24T00:18:26Z",
-            "owner": "hedera-dev",
-            "repo": "tutorial-js-supra-oracle-contract-push",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Supra Demo on Hedera | Pull",
-          "description": "This example shows how to use Supra Oracles real-world data feeds (Pull model). It fetches and verifies price data from Supra's gRPC server and use it within a smart contract on the Hedera network.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-02-24T00:16:53Z",
-            "owner": "hedera-dev",
-            "repo": "tutorial-js-supra-oracle-contract-pull",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Example Pyth Oracle Contract Pull",
-          "description": "This demo is a simple example of how to use Pyth prices in Hedera and is based on the tutorial here. Follow the instructions in the tutorial to build and deploy and use this demo.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2025-06-17T20:18:02Z",
-            "owner": "hedera-dev",
-            "repo": "tutorial-js-pyth-oracle-contract-pull",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "How to Test a Solidity Event with Foundry",
-          "description": "Foundry supports the use of cheatcodes. Cheatcodes allow you to go beyond testing the outputs of your smart contracts. They allow developers to manipulate the state of the blockchain, test for reverts, and events. In this tutorial, we will focus on the cheatcode vm.expectEmit to test a solidity event.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2024-02-22T19:38:43Z",
-            "owner": "hedera-dev",
-            "repo": "tutorial-foundry-test-event",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "How to Deploy and Verify a Hedera Smart Contract with Foundry",
-          "description": "Discover how to deploy and automatically verify your Hedera smart contract. Learn how to verify a pre-existing contract and check a contract's verification status.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2024-02-09T18:35:55Z",
-            "owner": "hedera-dev",
-            "repo": "tutorial-js-foundry-deploy-and-verify-smart-contract",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "How to Setup Foundry and Write a Basic Unit Test",
-          "description": "Using an existing Hedera node project with the JavaScript SDK, learn how to set up Foundry to be able to leverage Forge, their command-line tool, to run your smart contract tests written in Solidity.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2024-01-26T20:10:13Z",
-            "owner": "hedera-dev",
-            "repo": "tutorial-foundry-unit-test",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vanilla JS Dapp Template",
-          "description": "A decentralized application template in pure JavaScript, HTML, and CSS. It uses Vite as its build tool.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Hedera Tokens demo",
-          "description": "Example smart contracts to manage tokens on Hedera.",
-          "children": []
-        }
-      ],
-      "title": "Examples and Demos"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Hedera Local Node",
-          "description": "Run your own local Hedera network for development purposes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T09:31:13Z",
-            "owner": "hiero-ledger",
-            "repo": "hiero-local-node",
-            "stars": 262
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hedera Protobufs",
-          "description": "Authoritative source of Hedera protobufs which represent the core of the Hedera Services API and enables developers to build libraries and SDKs in a multitude of development languages.",
           "children": [
             {
               "node_type": "item",
-              "title": "Google Protocol Buffers",
-              "description": "code generator, parser, and Gradle module.",
+              "title": "JavaScript SDK",
+              "description": "the official JavaScript SDK for interacting with Hedera.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 198903637,
+                "language": "JavaScript",
+                "last_commit": "2026-08-18T12:27:27Z",
+                "owner": "hiero-ledger",
+                "repo": "hiero-sdk-js",
+                "stars": 327
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java SDK",
+              "description": "the official Java SDK for interacting with Hedera.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152455526,
                 "language": "Java",
-                "last_commit": "2026-08-18T16:18:48Z",
+                "last_commit": "2026-08-19T10:38:15Z",
+                "owner": "hiero-ledger",
+                "repo": "hiero-sdk-java",
+                "stars": 259
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go SDK",
+              "description": "the official Go SDK for interacting with Hedera.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231656330,
+                "language": "Go",
+                "last_commit": "2026-08-19T11:16:45Z",
+                "owner": "hiero-ledger",
+                "repo": "hiero-sdk-go",
+                "stars": 127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rust SDK",
+              "description": "the official Rust SDK for interacting with Hedera.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 473802067,
+                "language": "Rust",
+                "last_commit": "2026-08-05T07:11:51Z",
+                "owner": "hiero-ledger",
+                "repo": "hiero-sdk-rust",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DiD SDK (JavaScript)",
+              "description": "Javascript SDK for managing DID Documents & Verifiable Credentials.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 378975431,
+                "language": "TypeScript",
+                "last_commit": "2026-07-15T12:51:22Z",
                 "owner": "hashgraph",
-                "repo": "pbj",
-                "stars": 44
+                "repo": "did-sdk-js",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C++ SDK",
+              "description": "the official C++ SDK for interacting with Hedera.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542791519,
+                "language": "C++",
+                "last_commit": "2026-08-13T00:23:34Z",
+                "owner": "hiero-ledger",
+                "repo": "hiero-sdk-cpp",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift SDK",
+              "description": "the official Swift SDK for interacting with Hedera.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252311770,
+                "language": "Swift",
+                "last_commit": "2026-08-10T09:29:09Z",
+                "owner": "hiero-ledger",
+                "repo": "hiero-sdk-swift",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DiD SDK (Java)",
+              "description": "Java SDK for managing DID Documents & Verifiable Credentials.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248239985,
+                "language": "Java",
+                "last_commit": "2024-06-01T02:45:03Z",
+                "owner": "hashgraph",
+                "repo": "did-sdk-java",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DiD Method",
+              "description": "This repository contains the Hedera DID method specification.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248053195,
+                "language": null,
+                "last_commit": "2025-01-14T21:54:36Z",
+                "owner": "hashgraph",
+                "repo": "did-method",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SDK TCK",
+              "description": "A TCK (Technology Compatibility Kit) used to verify compliant implementations of a Hiero SDK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 518265916,
+                "language": "TypeScript",
+                "last_commit": "2026-08-18T12:27:43Z",
+                "owner": "hiero-ledger",
+                "repo": "hiero-sdk-tck",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NFT SDK",
+              "description": "Hedera NFT Utilities SDK for JavaScript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574014447,
+                "language": "TypeScript",
+                "last_commit": "2026-07-15T12:54:50Z",
+                "owner": "hashgraph",
+                "repo": "hedera-nft-sdk",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hedera Custodians Library",
+              "description": "The hedera-custodians-library library is a Typescript utility designed to simplify custodial wallet management. It provides developers with tools to abstract complex aspects of custodial wallets, allowing them to focus on their application's core logic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 747364953,
+                "language": "TypeScript",
+                "last_commit": "2026-05-08T20:58:46Z",
+                "owner": "hashgraph",
+                "repo": "hedera-custodians-library",
+                "stars": 6
               }
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-15T14:19:13Z",
-            "owner": "hashgraph",
-            "repo": "hedera-protobufs",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HashScan",
-          "description": "Visual Explorer for the Hiero DLT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T13:54:31Z",
-            "owner": "hiero-ledger",
-            "repo": "hiero-mirror-node-explorer",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Solo",
-          "description": "An opinionated CLI tool to deploy and manage standalone test networks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T17:32:14Z",
-            "owner": "hiero-ledger",
-            "repo": "solo",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hedera CLI",
-          "description": "A simple, open source, command line interface for interacting with both the Hedera Mainnet and Testnet.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-05T07:07:46Z",
-            "owner": "hiero-ledger",
-            "repo": "hiero-cli",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Walletconnect",
-          "description": "This repository is a reference for wallets and dApps integrating the WalletConnect <> Hedera JSON-RPC reference.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-13T00:15:46Z",
-            "owner": "hashgraph",
-            "repo": "hedera-wallet-connect",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Block Node",
-          "description": "Implementation of the Hedera Block Node, which is responsible for consuming the block streams, maintaining state and exposing additional targeted value adding APIs to the Hedera community.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T17:07:58Z",
-            "owner": "hiero-ledger",
-            "repo": "hiero-block-node",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hedera Ledger App",
-          "description": "Hedera wallet application for Ledger Nano S",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2025-01-14T19:29:51Z",
-            "owner": "hashgraph",
-            "repo": "ledger-app-hedera",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hedera Fee Tool",
-          "description": "Tool to calculate price of transactions on Hedera network.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-28T19:35:01Z",
-            "owner": "hashgraph",
-            "repo": "hedera-fee-tool-js",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sourcify",
-          "description": "Tools for verifying Hedera smart contracts using standard open source libraries.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2026-05-26T14:13:10Z",
-            "owner": "hashgraph",
-            "repo": "hedera-sourcify",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Smart Contracts",
-          "description": "Reference library for Smart Contracts utilized by the Hedera network with supporting files and examples.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-03-03T09:31:47Z",
-            "owner": "hashgraph",
-            "repo": "hedera-smart-contracts-libs-lab",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "The Graph",
-          "description": "Tools for hosting a graph node for the Hedera community.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-17T14:49:26Z",
-            "owner": "hashgraph",
-            "repo": "hedera-the-graph",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "GRPCWeb Proxy",
-          "description": "This project contains a utility generator to create configuration files for docker such that you can run an envoy proxy for web clients to interact with Hedera's native APIs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-11T20:27:07Z",
-            "owner": "hashgraph",
-            "repo": "hedera-grpcWeb-proxy",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hash Name Service",
-          "description": "Replace your Hedera ID with human-readable names. Register your name before someone else does!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-04-05T11:25:32Z",
-            "owner": "hashingsystems",
-            "repo": "HNS",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hackathon EVM starter sheet",
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-02-26T01:03:59Z",
-            "owner": "hedera-dev",
-            "repo": "hedera-cheatsheets",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JSON RPC Relay",
-          "description": "implementation of an Ethereum JSON RPC APIs for Hedera.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Mirror Node",
-          "description": "An open-source implementation of the Hedera mirror node for developers and infrastructure providers to deploy.",
-          "children": []
-        }
-      ],
-      "title": "References and Resources"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Guardian",
-          "description": "The Guardian is an innovative open-source platform that streamlines the creation, management, and verification of digital environmental assets.",
-          "children": []
-        },
-        {
           "node_type": "group",
-          "title": "DAO-as-a-service boilerplate - The starting point for developers building a DAO as a service on Hedera.",
-          "description": null,
+          "title": "Software Development Kits (SDKs)"
+        },
+        {
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/hashgraph/hedera-accelerator-defi-dex",
+              "title": "HTS Demo",
+              "description": "This demo is a user interface written in Javascript (Vue.JS) to illustrate the use of the Hedera Token Service.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 306695340,
+                "language": "Vue",
+                "last_commit": "2025-01-14T20:05:51Z",
+                "owner": "hashgraph",
+                "repo": "hedera-hts-demo",
+                "stars": 79
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hedera Smart Contract Starter",
+              "description": "This project provides a hands-on demonstration of using upgradeable smart contracts with OpenZeppelin's upgrades plugins in Hardhat. Specifically, it is a smart contract starter project that illustrates the use of both Proxies and Beacon Proxies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 566476631,
+                "language": "TypeScript",
+                "last_commit": "2025-01-15T15:18:20Z",
+                "owner": "hashgraph",
+                "repo": "hedera-smart-contract-starter",
+                "stars": 42
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HCS Chat application",
+              "description": "An example web app which demonstrates how you can use decentralized pub-sub messaging on the Hedera Consensus Service.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245479034,
+                "language": "JavaScript",
+                "last_commit": "2025-01-14T20:29:52Z",
+                "owner": "hashgraph",
+                "repo": "hedera-hcs-chat-js",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Proof of Action microservice",
+              "description": "The Hedera Proof of Action (HPoA) microservice aims to make it easy for organizations to build a capability to record and subsequently prove the existence of business events using the Hedera Consensus Service.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 252312388,
+                "language": "Java",
+                "last_commit": "2024-10-31T11:29:16Z",
+                "owner": "hashgraph",
+                "repo": "hedera-proof-of-action-microservice",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Code snippets",
+              "description": "Short, Self Contained, Correct Examples of code on Hedera.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 623852690,
+                "language": "Solidity",
+                "last_commit": "2025-12-24T17:25:09Z",
+                "owner": "hedera-dev",
+                "repo": "hedera-code-snippets",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Create React App Hedera Dapp Template",
+              "description": "Hedera DApp Starter Template using Create React App, Material UI and Typescript with Hedera native wallet support and MetaMask wallet support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 641731818,
+                "language": "TypeScript",
+                "last_commit": "2025-12-16T13:02:55Z",
+                "owner": "hedera-dev",
+                "repo": "template-ts-hedera-cra-dapp",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hardhat example project",
+              "description": "This Hedera Hardhat Example Project offers boilerplate code for testing and deploying smart contracts via Hardhat. It includes configuration for both community-hosted and local (Hedera Local Node) instances of the Hedera JSON RPC Relay.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 598780457,
+                "language": "JavaScript",
+                "last_commit": "2025-01-14T22:50:01Z",
+                "owner": "hashgraph",
+                "repo": "hedera-hardhat-example-project",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hedera Subgraph Example",
+              "description": "The Hedera Subgraph Example Project demonstrates how to create and deploy a subgraph to a local graph node using The Graph Protocol. Based on the Hedera Hardhat Example Project Repository.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 603199667,
+                "language": "TypeScript",
+                "last_commit": "2025-01-15T15:16:24Z",
+                "owner": "hashgraph",
+                "repo": "hedera-subgraph-example",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hedera DApp Integrated with WalletConnec",
+              "description": "t - Explore DApp development using the Mirror Node API and Hedera Token Service (HTS). Discover how to integrate HTS functionality into your DApp for seamless token management and transactions. This guide uses React, Material UI, Ethers, and TypeScript with the Create React App (CRA) Hedera DApp template integrated with walletconnect, streamlining your development process.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 654725829,
+                "language": "TypeScript",
+                "last_commit": "2025-12-16T11:08:34Z",
+                "owner": "hedera-dev",
+                "repo": "tutorial-ts-dapp-multi-wallet",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hedera DApp CRA Template",
+              "description": "Hedera DApp Starter Template using Create React App, Material UI and JavaScript with HashPack, Blade, and MetaMask wallet support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 654326500,
+                "language": "JavaScript",
+                "last_commit": "2025-12-16T11:15:42Z",
+                "owner": "hedera-dev",
+                "repo": "template-js-hedera-cra-dapp",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bridging with Layer Zero",
               "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 883382528,
+                "language": "TypeScript",
+                "last_commit": "2024-11-05T01:10:21Z",
+                "owner": "hedera-dev",
+                "repo": "tutorial-js-layer-zero-bridging-oapp",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chainlink price feeds",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 880557152,
+                "language": null,
+                "last_commit": "2024-10-29T23:46:43Z",
+                "owner": "hedera-dev",
+                "repo": "tutorial-js-chainlink-price-feeds",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Risk Calculator for Hedera Tokens",
+              "description": "Risk Calculator application serves as a tool to evaluate the risk associated with tokens on the Hedera network, specifically to assess the likelihood of a rug pull based on a token's properties. It calculates a risk score and levels by examining various risk factors like Admin Key, Supply Key, KYC Key, etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 773813274,
+                "language": "TypeScript",
+                "last_commit": "2024-07-23T11:28:19Z",
+                "owner": "hedera-dev",
+                "repo": "tool-nft-risk-calculator-for-hedera-tokens",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Airdrop Verifier",
+              "description": "The Airdrop Verifier is a utility that simplifies the process of organizing airdrops for Hedera tokens. Users can input a Token ID and a list of account IDs to which they wish to airdrop tokens. The application generates a list of addresses either associated with the token or having available auto-association slots, ensuring efficient and targeted airdrops.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 765613483,
+                "language": "TypeScript",
+                "last_commit": "2024-07-23T11:28:04Z",
+                "owner": "hedera-dev",
+                "repo": "tool-nft-airdrop-verifier",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rarity Inspector",
+              "description": "This project allows users to upload a .zip file through a dropzone to check how NFTs are presented (displayed in a gallery as cards that can be clicked to read detailed information about them) and their \"rarity\". The project presents charts showing these data and several other features. Additionally, sorting and filtering options are available to simplify data browsing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 775898374,
+                "language": "TypeScript",
+                "last_commit": "2024-07-23T11:27:39Z",
+                "owner": "hedera-dev",
+                "repo": "tool-nft-rarity-inspector",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Token Holders List Builder",
+              "description": "The Token Holders List Builder is a tool designed to efficiently generate lists of token holders who meet specific criteria, like holding a minimum number of NFTs from a particular collection. This can be especially useful for identifying key stakeholders or organizing targeted marketing campaigns within the NFT community. By automating what would otherwise be a complex data retrieval process, this tool simplifies analytics and community management for NFT projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 764029253,
+                "language": "TypeScript",
+                "last_commit": "2024-07-23T11:27:07Z",
+                "owner": "hedera-dev",
+                "repo": "tool-nft-token-holders-list-builder",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Supra Demo on Hedera | Push",
+              "description": "This example shows how to use Supra Oracles real-world data feeds (Push model).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 762518824,
+                "language": null,
+                "last_commit": "2024-02-24T00:18:26Z",
+                "owner": "hedera-dev",
+                "repo": "tutorial-js-supra-oracle-contract-push",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Supra Demo on Hedera | Pull",
+              "description": "This example shows how to use Supra Oracles real-world data feeds (Pull model). It fetches and verifies price data from Supra's gRPC server and use it within a smart contract on the Hedera network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 762469031,
+                "language": "JavaScript",
+                "last_commit": "2024-02-24T00:16:53Z",
+                "owner": "hedera-dev",
+                "repo": "tutorial-js-supra-oracle-contract-pull",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Example Pyth Oracle Contract Pull",
+              "description": "This demo is a simple example of how to use Pyth prices in Hedera and is based on the tutorial here. Follow the instructions in the tutorial to build and deploy and use this demo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 762479909,
+                "language": "Solidity",
+                "last_commit": "2025-06-17T20:18:02Z",
+                "owner": "hedera-dev",
+                "repo": "tutorial-js-pyth-oracle-contract-pull",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "How to Test a Solidity Event with Foundry",
+              "description": "Foundry supports the use of cheatcodes. Cheatcodes allow you to go beyond testing the outputs of your smart contracts. They allow developers to manipulate the state of the blockchain, test for reverts, and events. In this tutorial, we will focus on the cheatcode vm.expectEmit to test a solidity event.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 739598667,
+                "language": "Solidity",
+                "last_commit": "2024-02-22T19:38:43Z",
+                "owner": "hedera-dev",
+                "repo": "tutorial-foundry-test-event",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "How to Deploy and Verify a Hedera Smart Contract with Foundry",
+              "description": "Discover how to deploy and automatically verify your Hedera smart contract. Learn how to verify a pre-existing contract and check a contract's verification status.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 754833184,
+                "language": "Solidity",
+                "last_commit": "2024-02-09T18:35:55Z",
+                "owner": "hedera-dev",
+                "repo": "tutorial-js-foundry-deploy-and-verify-smart-contract",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "How to Setup Foundry and Write a Basic Unit Test",
+              "description": "Using an existing Hedera node project with the JavaScript SDK, learn how to set up Foundry to be able to leverage Forge, their command-line tool, to run your smart contract tests written in Solidity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 739592820,
+                "language": "Solidity",
+                "last_commit": "2024-01-26T20:10:13Z",
+                "owner": "hedera-dev",
+                "repo": "tutorial-foundry-unit-test",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Examples and Demos"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hedera Local Node",
+              "description": "Run your own local Hedera network for development purposes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 338433982,
+                "language": "TypeScript",
+                "last_commit": "2026-08-17T09:31:13Z",
+                "owner": "hiero-ledger",
+                "repo": "hiero-local-node",
+                "stars": 262
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hedera Protobufs",
+              "description": "Authoritative source of Hedera protobufs which represent the core of the Hedera Services API and enables developers to build libraries and SDKs in a multitude of development languages.",
               "children": [
                 {
                   "node_type": "item",
-                  "title": "https://github.com/hashgraph/hedera-accelerator-defi-dex-ui",
-                  "description": null,
+                  "title": "Google Protocol Buffers",
+                  "description": "code generator, parser, and Gradle module.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "language": "TypeScript",
-                    "last_commit": "2026-01-15T16:30:36Z",
+                    "id": 562238140,
+                    "language": "Java",
+                    "last_commit": "2026-08-19T11:54:41Z",
                     "owner": "hashgraph",
-                    "repo": "hedera-accelerator-defi-dex-ui",
-                    "stars": 15
+                    "repo": "pbj",
+                    "stars": 44
                   }
                 }
               ],
               "repo_info": {
                 "archived": false,
-                "language": "TypeScript",
-                "last_commit": "2026-07-15T12:51:41Z",
+                "id": 335101388,
+                "language": "Shell",
+                "last_commit": "2026-08-15T14:19:13Z",
                 "owner": "hashgraph",
-                "repo": "hedera-accelerator-defi-dex",
-                "stars": 8
+                "repo": "hedera-protobufs",
+                "stars": 49
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "RWA",
-          "description": null,
-          "children": [
+            },
             {
               "node_type": "item",
-              "title": "Asset Tokenization Studio",
-              "description": "Asset Tokenization Studio is a set of open-source smart contracts and SDK that makes it easy for asset issuers to manage bonds and equities in a regulatory-compliant manner with additional on-chain visibility on the Hedera network.",
+              "title": "HashScan",
+              "description": "Visual Explorer for the Hiero DLT.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 484202398,
                 "language": "TypeScript",
-                "last_commit": "2026-08-18T14:57:21Z",
-                "owner": "hashgraph",
-                "repo": "asset-tokenization-studio",
-                "stars": 32
+                "last_commit": "2026-08-19T10:34:48Z",
+                "owner": "hiero-ledger",
+                "repo": "hiero-mirror-node-explorer",
+                "stars": 48
               }
-            }
-          ]
-        },
-        {
-          "node_type": "group",
-          "title": "DeFi",
-          "description": null,
-          "children": [
+            },
             {
               "node_type": "item",
-              "title": "Smart contracts for EIP 3643 & EIP 4626 that can be used on Hedera's EVM",
+              "title": "Solo",
+              "description": "An opinionated CLI tool to deploy and manage standalone test networks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 751097461,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T09:17:07Z",
+                "owner": "hiero-ledger",
+                "repo": "solo",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hedera CLI",
+              "description": "A simple, open source, command line interface for interacting with both the Hedera Mainnet and Testnet.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 204660118,
+                "language": "TypeScript",
+                "last_commit": "2026-08-05T07:07:46Z",
+                "owner": "hiero-ledger",
+                "repo": "hiero-cli",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Walletconnect",
+              "description": "This repository is a reference for wallets and dApps integrating the WalletConnect <> Hedera JSON-RPC reference.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 682294745,
+                "language": "TypeScript",
+                "last_commit": "2026-07-13T00:15:46Z",
+                "owner": "hashgraph",
+                "repo": "hedera-wallet-connect",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Block Node",
+              "description": "Implementation of the Hedera Block Node, which is responsible for consuming the block streams, maintaining state and exposing additional targeted value adding APIs to the Hedera community.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 801196644,
+                "language": "Java",
+                "last_commit": "2026-08-19T11:33:00Z",
+                "owner": "hiero-ledger",
+                "repo": "hiero-block-node",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hedera Ledger App",
+              "description": "Hedera wallet application for Ledger Nano S",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 214544089,
+                "language": "C",
+                "last_commit": "2025-01-14T19:29:51Z",
+                "owner": "hashgraph",
+                "repo": "ledger-app-hedera",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hedera Fee Tool",
+              "description": "Tool to calculate price of transactions on Hedera network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 264016657,
+                "language": "JavaScript",
+                "last_commit": "2026-01-28T19:35:01Z",
+                "owner": "hashgraph",
+                "repo": "hedera-fee-tool-js",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sourcify",
+              "description": "Tools for verifying Hedera smart contracts using standard open source libraries.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 657720178,
+                "language": "TypeScript",
+                "last_commit": "2026-05-26T14:13:10Z",
+                "owner": "hashgraph",
+                "repo": "hedera-sourcify",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Smart Contracts",
+              "description": "Reference library for Smart Contracts utilized by the Hedera network with supporting files and examples.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 452380917,
+                "language": "JavaScript",
+                "last_commit": "2025-03-03T09:31:47Z",
+                "owner": "hashgraph",
+                "repo": "hedera-smart-contracts-libs-lab",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The Graph",
+              "description": "Tools for hosting a graph node for the Hedera community.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 657720204,
+                "language": "TypeScript",
+                "last_commit": "2026-04-17T14:49:26Z",
+                "owner": "hashgraph",
+                "repo": "hedera-the-graph",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GRPCWeb Proxy",
+              "description": "This project contains a utility generator to create configuration files for docker such that you can run an envoy proxy for web clients to interact with Hedera's native APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 528113262,
+                "language": "JavaScript",
+                "last_commit": "2026-08-11T20:27:07Z",
+                "owner": "hashgraph",
+                "repo": "hedera-grpcWeb-proxy",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hash Name Service",
+              "description": "Replace your Hedera ID with human-readable names. Register your name before someone else does!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155124701,
+                "language": "Java",
+                "last_commit": "2019-04-05T11:25:32Z",
+                "owner": "hashingsystems",
+                "repo": "HNS",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hackathon EVM starter sheet",
               "description": null,
               "children": [],
               "repo_info": {
                 "archived": false,
-                "language": "Solidity",
-                "last_commit": "2026-05-07T18:21:19Z",
-                "owner": "hashgraph",
-                "repo": "hedera-accelerator-rwa-defi-be",
-                "stars": 4
+                "id": 763270633,
+                "language": null,
+                "last_commit": "2024-02-26T01:03:59Z",
+                "owner": "hedera-dev",
+                "repo": "hedera-cheatsheets",
+                "stars": 1
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "References and Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "DAO-as-a-service boilerplate - The starting point for developers building a DAO as a service on Hedera.",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/hashgraph/hedera-accelerator-defi-dex",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "https://github.com/hashgraph/hedera-accelerator-defi-dex-ui",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 515650957,
+                        "language": "TypeScript",
+                        "last_commit": "2026-01-15T16:30:36Z",
+                        "owner": "hashgraph",
+                        "repo": "hedera-accelerator-defi-dex-ui",
+                        "stars": 15
+                      }
+                    }
+                  ],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 514383067,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-15T12:51:41Z",
+                    "owner": "hashgraph",
+                    "repo": "hedera-accelerator-defi-dex",
+                    "stars": 8
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "RWA",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Asset Tokenization Studio",
+                  "description": "Asset Tokenization Studio is a set of open-source smart contracts and SDK that makes it easy for asset issuers to manage bonds and equities in a regulatory-compliant manner with additional on-chain visibility on the Hedera network.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 787087690,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-19T11:59:52Z",
+                    "owner": "hashgraph",
+                    "repo": "asset-tokenization-studio",
+                    "stars": 32
+                  }
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "DeFi",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Smart contracts for EIP 3643 & EIP 4626 that can be used on Hedera's EVM",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 774127440,
+                    "language": "Solidity",
+                    "last_commit": "2026-05-07T18:21:19Z",
+                    "owner": "hashgraph",
+                    "repo": "hedera-accelerator-rwa-defi-be",
+                    "stars": 4
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Accelerators"
         }
       ],
-      "title": "Accelerators"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Infrastructure and Integrations"
-    },
-    {
-      "description": "Featuring projects built on top of or integrated with the Hedera network.",
-      "items": [],
-      "title": "Hedera Projects"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Real World and Digital Asset Tokenization"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Consumer Engagement and Loyalty"
-    },
-    {
-      "description": "We're always looking for awesome projects that showcase Hedera! If you know of anything missing here, please submit a pull request!When submitting, please try to maintain the existing structure and alphabetical order where possible. If you need to change the structure or other \"meta\" alterations, please create a new issue.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
+      "title": "Open Source Developer Assets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:36:07.150Z",
+    "last_updated": "2026-08-19T12:32:54.746Z",
     "original_repository": "hashgraph/awesome-hedera",
+    "original_repository_id": 108934391,
     "original_repository_sha": "f6ba8e04de82e4f2b0a365b3b891ae963459033b",
     "enhanced_repository": "enhansome/enhansome-hedera",
     "enhanced_repository_description": null,
