@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-22T08:55:43Z",
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-js",
-                "stars": 327
+                "stars": 328
               }
             },
             {
@@ -644,7 +644,7 @@
                 "archived": false,
                 "id": 801196644,
                 "language": "Java",
-                "last_commit": "2026-08-22T02:44:10Z",
+                "last_commit": "2026-08-23T05:35:50Z",
                 "owner": "hiero-ledger",
                 "repo": "hiero-block-node",
                 "stars": 37
@@ -869,7 +869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:29:43.208Z",
+    "last_updated": "2026-08-23T17:28:46.830Z",
     "original_repository": "hashgraph/awesome-hedera",
     "original_repository_id": 108934391,
     "original_repository_sha": "f6ba8e04de82e4f2b0a365b3b891ae963459033b",
