@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 152455526,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:04:12Z",
+                "last_commit": "2026-08-27T12:46:58Z",
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-java",
                 "stars": 261
@@ -558,7 +558,7 @@
                     "archived": false,
                     "id": 562238140,
                     "language": "Java",
-                    "last_commit": "2026-08-25T20:29:42Z",
+                    "last_commit": "2026-08-27T21:43:12Z",
                     "owner": "hashgraph",
                     "repo": "pbj",
                     "stars": 44
@@ -569,7 +569,7 @@
                 "archived": false,
                 "id": 335101388,
                 "language": "Shell",
-                "last_commit": "2026-08-25T20:00:11Z",
+                "last_commit": "2026-08-27T20:10:03Z",
                 "owner": "hashgraph",
                 "repo": "hedera-protobufs",
                 "stars": 49
@@ -584,7 +584,7 @@
                 "archived": false,
                 "id": 484202398,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T10:35:34Z",
+                "last_commit": "2026-08-27T15:33:37Z",
                 "owner": "hiero-ledger",
                 "repo": "hiero-mirror-node-explorer",
                 "stars": 48
@@ -599,7 +599,7 @@
                 "archived": false,
                 "id": 751097461,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T10:40:14Z",
+                "last_commit": "2026-08-27T18:57:53Z",
                 "owner": "hiero-ledger",
                 "repo": "solo",
                 "stars": 43
@@ -644,7 +644,7 @@
                 "archived": false,
                 "id": 801196644,
                 "language": "Java",
-                "last_commit": "2026-08-27T11:28:24Z",
+                "last_commit": "2026-08-27T23:19:44Z",
                 "owner": "hiero-ledger",
                 "repo": "hiero-block-node",
                 "stars": 37
@@ -869,7 +869,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:45:50.805Z",
+    "last_updated": "2026-08-28T01:25:53.330Z",
     "original_repository_info": {
       "archived": false,
       "id": 108934391,
