@@ -135,7 +135,7 @@ This section features open source projects in the [Hedera](https://www.hedera.co
 * [Solo](https://github.com/hashgraph/solo) ⭐ 43 | 🐛 273 | 🌐 TypeScript | 📅 2026-08-28 - An opinionated CLI tool to deploy and manage standalone test networks.
 * [Hedera CLI](https://github.com/hashgraph/hedera-cli) ⭐ 43 | 🐛 84 | 🌐 TypeScript | 📅 2026-08-20 - A simple, open source, command line interface for interacting with both the Hedera Mainnet and Testnet.
 * [Walletconnect](https://github.com/hashgraph/hedera-wallet-connect) ⭐ 40 | 🐛 18 | 🌐 TypeScript | 📅 2026-07-13 - This repository is a reference for wallets and dApps integrating the WalletConnect <> Hedera JSON-RPC reference.
-* [Block Node](https://github.com/hashgraph/hedera-block-node) ⭐ 37 | 🐛 526 | 🌐 Java | 📅 2026-08-28 - Implementation of the Hedera Block Node, which is responsible for consuming the block streams, maintaining state and exposing additional targeted value adding APIs to the Hedera community.
+* [Block Node](https://github.com/hashgraph/hedera-block-node) ⭐ 37 | 🐛 527 | 🌐 Java | 📅 2026-08-29 - Implementation of the Hedera Block Node, which is responsible for consuming the block streams, maintaining state and exposing additional targeted value adding APIs to the Hedera community.
 * [Hedera Ledger App](https://github.com/hashgraph/ledger-app-hedera) ⭐ 16 | 🐛 5 | 🌐 C | 📅 2025-01-14 - Hedera wallet application for Ledger Nano S
 * [Hedera Fee Tool](https://github.com/hashgraph/hedera-fee-tool-js) ⭐ 11 | 🐛 9 | 🌐 JavaScript | 📅 2026-01-28 - Tool to calculate price of transactions on Hedera network.
 * [Sourcify](https://github.com/hashgraph/hedera-sourcify) ⚠️ Archived - Tools for verifying Hedera smart contracts using standard open source libraries.

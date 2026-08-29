@@ -12,12 +12,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A JavaScript/TypeScript SDK for Hiero: A Javascript toolkit for creating, updating, and interacting with on-ledger assets and smart contracts on Hedera and other Hiero networks",
+                "homepage": "https://docs.hedera.com/hedera/sdks-and-apis/sdks",
                 "id": 198903637,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T02:54:25Z",
+                "open_issues": 86,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-js",
-                "stars": 328
+                "stars": 328,
+                "topics": [
+                  "blockchain",
+                  "distributed-ledger-technology",
+                  "good-first-issue",
+                  "good-first-issues",
+                  "hacktoberfest",
+                  "hashgraph",
+                  "hedera",
+                  "hiero",
+                  "javascript",
+                  "javascript-sdk",
+                  "open-source",
+                  "sdk",
+                  "typescript",
+                  "typescript-sdk"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -28,12 +48,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java SDK for Hiero",
+                "homepage": "https://docs.hedera.com/guides/docs/sdks",
                 "id": 152455526,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T07:52:49Z",
+                "open_issues": 58,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-java",
-                "stars": 262
+                "stars": 262,
+                "topics": [
+                  "distributed-ledger-technology",
+                  "hacktoberfest",
+                  "hashgraph",
+                  "hedera",
+                  "java",
+                  "sdk",
+                  "sdk-java"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -44,12 +77,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go SDK for Hiero",
+                "homepage": "https://docs.hedera.com/hedera/sdks-and-apis/sdks",
                 "id": 231656330,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T13:46:37Z",
+                "open_issues": 34,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-go",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "distributed-ledger-technology",
+                  "go",
+                  "hacktoberfest",
+                  "hashgraph",
+                  "hedera",
+                  "hedera-sdk",
+                  "hiero",
+                  "sdk",
+                  "sdk-go"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -60,12 +108,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Hiero™  Rust SDK ",
+                "homepage": null,
                 "id": 473802067,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-05T07:11:51Z",
+                "open_issues": 82,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-rust",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -76,12 +131,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Javascript SDK for managing DID Documents & Verifiable Credentials",
+                "homepage": null,
                 "id": 378975431,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-15T12:51:22Z",
+                "open_issues": 31,
                 "owner": "hashgraph",
                 "repo": "did-sdk-js",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -92,12 +154,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C++ SDK for Hiero: A C++ toolkit for creating, updating, and interacting with on-ledger assets and smart contracts on Hedera and other Hiero networks",
+                "homepage": null,
                 "id": 542791519,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T00:23:34Z",
+                "open_issues": 90,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-cpp",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "blockchain",
+                  "cmake",
+                  "cpp",
+                  "cpp17",
+                  "cryptocurrency",
+                  "distributed-ledger",
+                  "good-first-issue",
+                  "good-first-issues",
+                  "hashgraph",
+                  "hedera",
+                  "hiero",
+                  "open-source",
+                  "sdk",
+                  "smart-contracts",
+                  "tokens",
+                  "vcpkg",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -108,12 +193,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Swift SDK for Hiero: A Swift toolkit for creating, updating, and interacting with on-ledger assets and smart contracts on Hedera and other Hiero networks",
+                "homepage": null,
                 "id": 252311770,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-10T09:29:09Z",
+                "open_issues": 46,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-swift",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "blockchain",
+                  "cryptocurrency",
+                  "distributed-ledger",
+                  "good-first-issue",
+                  "good-first-issues",
+                  "hashgraph",
+                  "hedera",
+                  "hiero",
+                  "open-source",
+                  "sdk",
+                  "smart-contracts",
+                  "swift",
+                  "swift-6",
+                  "swift-package-manager",
+                  "tokens",
+                  "web3"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -124,12 +231,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Support for the Hedera Hashgraph DID Method and Verifiable Credentials on the Hedera Java SDK",
+                "homepage": null,
                 "id": 248239985,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-01T02:45:03Z",
+                "open_issues": 10,
                 "owner": "hashgraph",
                 "repo": "did-sdk-java",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -140,12 +254,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hedera Hashgraph Decentralized Identifier (DID) method specification",
+                "homepage": null,
                 "id": 248053195,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-14T21:54:36Z",
+                "open_issues": 4,
                 "owner": "hashgraph",
                 "repo": "did-method",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -156,12 +277,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A TCK (Technology Compatibility Kit) used to verify compliant implementations of a Hiero SDK",
+                "homepage": null,
                 "id": 518265916,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T15:28:59Z",
+                "open_issues": 186,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-tck",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -172,12 +300,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hedera NFT Utilities SDK for JavaScript",
+                "homepage": null,
                 "id": 574014447,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-15T12:54:50Z",
+                "open_issues": 10,
                 "owner": "hashgraph",
                 "repo": "hedera-nft-sdk",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -188,12 +323,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The hedera-custodians-library library is a Typescript utility designed to simplify custodial wallet management. It provides developers with tools to abstract complex aspects of custodial wallets, allowing them to focus on their application's core logic.",
+                "homepage": null,
                 "id": 747364953,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-08T20:58:46Z",
+                "open_issues": 33,
                 "owner": "hashgraph",
                 "repo": "hedera-custodians-library",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             }
@@ -211,12 +353,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a demonstration UI for the Hedera Token Service. Written in JavaScript and Vue.JS",
+                "homepage": null,
                 "id": 306695340,
                 "language": "Vue",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-14T20:05:51Z",
+                "open_issues": 17,
                 "owner": "hashgraph",
                 "repo": "hedera-hts-demo",
-                "stars": 79
+                "stars": 79,
+                "topics": [
+                  "hacktoberfest",
+                  "hedera",
+                  "hts",
+                  "service",
+                  "token"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -227,12 +380,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This smart contract starter on Hedera helps developers create upgradeable contracts using a proxy pattern for seamless upgrades. Includes a sample contract and documentation for a quick start.",
+                "homepage": null,
                 "id": 566476631,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-15T15:18:20Z",
+                "open_issues": 1,
                 "owner": "hashgraph",
                 "repo": "hedera-smart-contract-starter",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -243,12 +403,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An example chat application, which uses the Hedera Consensus Service for pub-sub messaging.",
+                "homepage": null,
                 "id": 245479034,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-14T20:29:52Z",
+                "open_issues": 12,
                 "owner": "hashgraph",
                 "repo": "hedera-hcs-chat-js",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -259,12 +426,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hedera™ Hashgraph Proof-of-Action Microservice",
+                "homepage": null,
                 "id": 252312388,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-31T11:29:16Z",
+                "open_issues": 0,
                 "owner": "hashgraph",
                 "repo": "hedera-proof-of-action-microservice",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "hacktoberfest",
+                  "hedera",
+                  "hedera-consensus-service",
+                  "microservice",
+                  "proof-of-action"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -275,12 +453,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Short, Self Contained, Correct, Examples of code on Hedera",
+                "homepage": null,
                 "id": 623852690,
                 "language": "Solidity",
+                "license": null,
                 "last_commit": "2025-12-24T17:25:09Z",
+                "open_issues": 0,
                 "owner": "hedera-dev",
                 "repo": "hedera-code-snippets",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "examples",
+                  "hedera"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -291,12 +477,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hedera DApp Starter Template using Create React App, Material UI and Typescript with Hedera native wallet support and MetaMask wallet support.",
+                "homepage": null,
                 "id": 641731818,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-12-16T13:02:55Z",
+                "open_issues": 0,
                 "owner": "hedera-dev",
                 "repo": "template-ts-hedera-cra-dapp",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "hedera",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -307,12 +501,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An example Hedera Hardhat project where you can use an instance of the Hedera JSON RPC Relay to test and deploy a smart contract.",
+                "homepage": null,
                 "id": 598780457,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-01-14T22:50:01Z",
+                "open_issues": 3,
                 "owner": "hashgraph",
                 "repo": "hedera-hardhat-example-project",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -323,12 +524,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Hedera Subgraph Example Project demonstrates how to create and deploy a subgraph to a local graph node using The Graph Protocol.",
+                "homepage": null,
                 "id": 603199667,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-01-15T15:16:24Z",
+                "open_issues": 3,
                 "owner": "hashgraph",
                 "repo": "hedera-subgraph-example",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -339,12 +547,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hedera DApp built with React, Material UI, and Typescript, enabling seamless token transfers on the Hedera Testnet network. This DApp supports multiple Hedera native wallet options and MetaMask.",
+                "homepage": null,
                 "id": 654725829,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-12-16T11:08:34Z",
+                "open_issues": 0,
                 "owner": "hedera-dev",
                 "repo": "tutorial-ts-dapp-multi-wallet",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -355,12 +568,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hedera DApp Starter Template using Create React App, Material UI and JavaScript with Hedera native wallet support and MetaMask wallet support.",
+                "homepage": null,
                 "id": 654326500,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2025-12-16T11:15:42Z",
+                "open_issues": 0,
                 "owner": "hedera-dev",
                 "repo": "template-js-hedera-cra-dapp",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -371,12 +589,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn how to use LayerZero with Hedera.",
+                "homepage": null,
                 "id": 883382528,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-11-05T01:10:21Z",
+                "open_issues": 0,
                 "owner": "hedera-dev",
                 "repo": "tutorial-js-layer-zero-bridging-oapp",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -387,12 +610,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get Chainlink price feeds on Hedera using the Chainlink Price Feeds Adapter.",
+                "homepage": null,
                 "id": 880557152,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-10-29T23:46:43Z",
+                "open_issues": 0,
                 "owner": "hedera-dev",
                 "repo": "tutorial-js-chainlink-price-feeds",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -403,12 +631,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 773813274,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-23T11:28:19Z",
+                "open_issues": 1,
                 "owner": "hedera-dev",
                 "repo": "tool-nft-risk-calculator-for-hedera-tokens",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -419,12 +652,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://ashe-oro-accelerator.github.io/airdrop-list-builder/",
                 "id": 765613483,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-07-23T11:28:04Z",
+                "open_issues": 2,
                 "owner": "hedera-dev",
                 "repo": "tool-nft-airdrop-verifier",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -435,12 +673,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 775898374,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-07-23T11:27:39Z",
+                "open_issues": 2,
                 "owner": "hedera-dev",
                 "repo": "tool-nft-rarity-inspector",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -451,12 +694,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 764029253,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-07-23T11:27:07Z",
+                "open_issues": 7,
                 "owner": "hedera-dev",
                 "repo": "tool-nft-token-holders-list-builder",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -467,12 +715,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This example shows how to use Supra Oracles real-world data feeds (Push model).",
+                "homepage": null,
                 "id": 762518824,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-24T00:18:26Z",
+                "open_issues": 0,
                 "owner": "hedera-dev",
                 "repo": "tutorial-js-supra-oracle-contract-push",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -483,12 +736,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This example shows how to use Supra Oracles real-world data feeds. It fetches and verifies price data from Supra's gRPC server and use it within a smart contract on the Hedera network.",
+                "homepage": null,
                 "id": 762469031,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-02-24T00:16:53Z",
+                "open_issues": 0,
                 "owner": "hedera-dev",
                 "repo": "tutorial-js-supra-oracle-contract-pull",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -499,12 +757,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This demo is a simple example of how to use Pyth prices on Hedera. A written version of the tutorial is provided with instructions to build and deploy this example.",
+                "homepage": null,
                 "id": 762479909,
                 "language": "Solidity",
+                "license": null,
                 "last_commit": "2025-06-17T20:18:02Z",
+                "open_issues": 0,
                 "owner": "hedera-dev",
                 "repo": "tutorial-js-pyth-oracle-contract-pull",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -515,12 +778,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn how to test a solidity event within a Hedera smart contract using Foundry.",
+                "homepage": null,
                 "id": 739598667,
                 "language": "Solidity",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-22T19:38:43Z",
+                "open_issues": 0,
                 "owner": "hedera-dev",
                 "repo": "tutorial-foundry-test-event",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -531,12 +799,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  Discover how to deploy and automatically verify your Hedera smart contract. Learn how to verify a pre-existing contract and check a contracts verification status.",
+                "homepage": null,
                 "id": 754833184,
                 "language": "Solidity",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-09T18:35:55Z",
+                "open_issues": 0,
                 "owner": "hedera-dev",
                 "repo": "tutorial-js-foundry-deploy-and-verify-smart-contract",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -547,12 +820,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn to setup Foundry within a nodeJS project and test a Hedera Smart Contract",
+                "homepage": null,
                 "id": 739592820,
                 "language": "Solidity",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-26T20:10:13Z",
+                "open_issues": 0,
                 "owner": "hedera-dev",
                 "repo": "tutorial-foundry-unit-test",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             }
@@ -570,12 +848,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run your own local Hiero based network for development purposes.",
+                "homepage": null,
                 "id": 338433982,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-17T09:31:13Z",
+                "open_issues": 153,
                 "owner": "hiero-ledger",
                 "repo": "hiero-local-node",
-                "stars": 262
+                "stars": 262,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -591,24 +876,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A performance optimized Google Protocol Buffers code generator, parser, and Gradle module.",
+                    "homepage": null,
                     "id": 562238140,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T21:43:12Z",
+                    "open_issues": 75,
                     "owner": "hashgraph",
                     "repo": "pbj",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": [
+                      "hacktoberfest"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:56:25.279Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Authoritative source of Hedera protobufs",
+                "homepage": null,
                 "id": 335101388,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:37:53Z",
+                "open_issues": 6,
                 "owner": "hashgraph",
                 "repo": "hedera-protobufs",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -619,12 +918,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hedera Mirror Node Explorer for the Hedera Hashgraph DLT.",
+                "homepage": null,
                 "id": 484202398,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T15:33:37Z",
+                "open_issues": 115,
                 "owner": "hiero-ledger",
                 "repo": "hiero-mirror-node-explorer",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -635,12 +941,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An opinionated CLI tool to deploy and manage standalone test networks.",
+                "homepage": null,
                 "id": 751097461,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T23:37:55Z",
+                "open_issues": 273,
                 "owner": "hiero-ledger",
                 "repo": "solo",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -651,12 +964,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hiero command line tools for developers",
+                "homepage": null,
                 "id": 204660118,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T22:14:31Z",
+                "open_issues": 84,
                 "owner": "hiero-ledger",
                 "repo": "hiero-cli",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "hacktoberfest",
+                  "hashgraph",
+                  "hedera"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -667,12 +989,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This package is a messaging relay between decentralized applications and wallets in Hedera network based on Wallet Connect relays.",
+                "homepage": null,
                 "id": 682294745,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-13T00:15:46Z",
+                "open_issues": 18,
                 "owner": "hashgraph",
                 "repo": "hedera-wallet-connect",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -683,12 +1012,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "New Block Node services",
+                "homepage": null,
                 "id": 801196644,
                 "language": "Java",
-                "last_commit": "2026-08-28T20:48:58Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:04:49Z",
+                "open_issues": 527,
                 "owner": "hiero-ledger",
                 "repo": "hiero-block-node",
-                "stars": 37
+                "stars": 37,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -699,12 +1035,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hedera wallet application for Ledger Nano S",
+                "homepage": null,
                 "id": 214544089,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-14T19:29:51Z",
+                "open_issues": 5,
                 "owner": "hashgraph",
                 "repo": "ledger-app-hedera",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "hacktoberfest",
+                  "ledger"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -715,12 +1059,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool to calculate price of transactions on Hedera network",
+                "homepage": "http://www.hedera.com",
                 "id": 264016657,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-28T19:35:01Z",
+                "open_issues": 9,
                 "owner": "hashgraph",
                 "repo": "hedera-fee-tool-js",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -731,12 +1082,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Tools for verifying Hedera smart contracts using standard open source libraries.",
+                "homepage": null,
                 "id": 657720178,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-26T14:13:10Z",
+                "open_issues": 68,
                 "owner": "hashgraph",
                 "repo": "hedera-sourcify",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -747,12 +1105,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smart contract examples in various languages showing use of Hedera SDKs in tandem with public libraries",
+                "homepage": null,
                 "id": 452380917,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-03T09:31:47Z",
+                "open_issues": 13,
                 "owner": "hashgraph",
                 "repo": "hedera-smart-contracts-libs-lab",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -763,12 +1128,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for hosting a graph node for the Hedera community.",
+                "homepage": null,
                 "id": 657720204,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-17T14:49:26Z",
+                "open_issues": 39,
                 "owner": "hashgraph",
                 "repo": "hedera-the-graph",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -779,12 +1151,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Envoy proxy docker and docker-compose for Hedera testnet and mainnet consensus nodes",
+                "homepage": null,
                 "id": 528113262,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-08-11T20:27:07Z",
+                "open_issues": 11,
                 "owner": "hashgraph",
                 "repo": "hedera-grpcWeb-proxy",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -795,12 +1174,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hash Name Service for Hedera Hashgraph. OG hackathon project.",
+                "homepage": "https://hns.domains",
                 "id": 155124701,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2019-04-05T11:25:32Z",
+                "open_issues": 0,
                 "owner": "hashingsystems",
                 "repo": "HNS",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             },
@@ -811,12 +1195,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 763270633,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-26T01:03:59Z",
+                "open_issues": 0,
                 "owner": "hedera-dev",
                 "repo": "hedera-cheatsheets",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:56:25.279Z"
             }
@@ -844,24 +1233,44 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": "https://hashiodao.swirldslabs.com/",
                         "id": 515650957,
                         "language": "TypeScript",
+                        "license": "MIT",
                         "last_commit": "2026-01-15T16:30:36Z",
+                        "open_issues": 24,
                         "owner": "hashgraph",
                         "repo": "hedera-accelerator-defi-dex-ui",
-                        "stars": 15
+                        "stars": 15,
+                        "topics": [
+                          "dao",
+                          "decentralized-autonomus-organization",
+                          "decentralized-exchange",
+                          "dex",
+                          "hacktoberfest",
+                          "hedera",
+                          "react"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:56:25.279Z"
                     }
                   ],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 514383067,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-15T12:51:41Z",
+                    "open_issues": 20,
                     "owner": "hashgraph",
                     "repo": "hedera-accelerator-defi-dex",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": [
+                      "hacktoberfest"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:56:25.279Z"
                 }
@@ -879,12 +1288,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Asset Tokenization Studio is an open source toolkit for the configuration, issuance, and management of tokenized securities and equities on the Hedera network–all in less time and with less risk.",
+                    "homepage": null,
                     "id": 787087690,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-21T11:50:10Z",
+                    "open_issues": 71,
                     "owner": "hashgraph",
                     "repo": "asset-tokenization-studio",
-                    "stars": 32
+                    "stars": 32,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:56:25.279Z"
                 }
@@ -902,12 +1316,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 774127440,
                     "language": "Solidity",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-07T18:21:19Z",
+                    "open_issues": 11,
                     "owner": "hashgraph",
                     "repo": "hedera-accelerator-rwa-defi-be",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": [
+                      "hacktoberfest"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:56:25.279Z"
                 }
@@ -923,15 +1344,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:56:25.279Z",
+    "last_updated": "2026-08-29T04:49:36.388Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Hedera is an open-source, layer 1, EVM-compatible blockchain network. It supports smart contracts just like Ethereum does, and also offers several additional native services. The network is governed by leading organizations around the world.",
+      "homepage": null,
       "id": 108934391,
       "language": null,
+      "license": null,
       "last_commit": "2025-02-10T21:33:15Z",
+      "open_issues": 7,
       "owner": "hashgraph",
       "repo": "awesome-hedera",
-      "stars": 325
+      "stars": 325,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest"
+      ]
     },
     "original_repository_sha": "f6ba8e04de82e4f2b0a365b3b891ae963459033b",
     "enhanced_repository": "enhansome/enhansome-hedera",
