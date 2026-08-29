@@ -18,7 +18,8 @@
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-js",
                 "stars": 328
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 152455526,
                 "language": "Java",
-                "last_commit": "2026-08-27T12:46:58Z",
+                "last_commit": "2026-08-28T07:52:49Z",
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-java",
-                "stars": 261
-              }
+                "stars": 262
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-go",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-rust",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "hashgraph",
                 "repo": "did-sdk-js",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-cpp",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-swift",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "hashgraph",
                 "repo": "did-sdk-java",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "hashgraph",
                 "repo": "did-method",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-tck",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "hashgraph",
                 "repo": "hedera-nft-sdk",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "hashgraph",
                 "repo": "hedera-custodians-library",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             }
           ],
           "description": null,
@@ -205,7 +217,8 @@
                 "owner": "hashgraph",
                 "repo": "hedera-hts-demo",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "hashgraph",
                 "repo": "hedera-smart-contract-starter",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "hashgraph",
                 "repo": "hedera-hcs-chat-js",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "hashgraph",
                 "repo": "hedera-proof-of-action-microservice",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "hedera-dev",
                 "repo": "hedera-code-snippets",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "hedera-dev",
                 "repo": "template-ts-hedera-cra-dapp",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "hashgraph",
                 "repo": "hedera-hardhat-example-project",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "hashgraph",
                 "repo": "hedera-subgraph-example",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,8 @@
                 "owner": "hedera-dev",
                 "repo": "tutorial-ts-dapp-multi-wallet",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -340,7 +361,8 @@
                 "owner": "hedera-dev",
                 "repo": "template-js-hedera-cra-dapp",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -355,7 +377,8 @@
                 "owner": "hedera-dev",
                 "repo": "tutorial-js-layer-zero-bridging-oapp",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -370,7 +393,8 @@
                 "owner": "hedera-dev",
                 "repo": "tutorial-js-chainlink-price-feeds",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -385,7 +409,8 @@
                 "owner": "hedera-dev",
                 "repo": "tool-nft-risk-calculator-for-hedera-tokens",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -400,7 +425,8 @@
                 "owner": "hedera-dev",
                 "repo": "tool-nft-airdrop-verifier",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -415,7 +441,8 @@
                 "owner": "hedera-dev",
                 "repo": "tool-nft-rarity-inspector",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -430,7 +457,8 @@
                 "owner": "hedera-dev",
                 "repo": "tool-nft-token-holders-list-builder",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -445,7 +473,8 @@
                 "owner": "hedera-dev",
                 "repo": "tutorial-js-supra-oracle-contract-push",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -460,7 +489,8 @@
                 "owner": "hedera-dev",
                 "repo": "tutorial-js-supra-oracle-contract-pull",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -475,7 +505,8 @@
                 "owner": "hedera-dev",
                 "repo": "tutorial-js-pyth-oracle-contract-pull",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -490,7 +521,8 @@
                 "owner": "hedera-dev",
                 "repo": "tutorial-foundry-test-event",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -505,7 +537,8 @@
                 "owner": "hedera-dev",
                 "repo": "tutorial-js-foundry-deploy-and-verify-smart-contract",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -520,7 +553,8 @@
                 "owner": "hedera-dev",
                 "repo": "tutorial-foundry-unit-test",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             }
           ],
           "description": null,
@@ -542,7 +576,8 @@
                 "owner": "hiero-ledger",
                 "repo": "hiero-local-node",
                 "stars": 262
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -562,18 +597,20 @@
                     "owner": "hashgraph",
                     "repo": "pbj",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:25.279Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
                 "id": 335101388,
                 "language": "Shell",
-                "last_commit": "2026-08-27T20:10:03Z",
+                "last_commit": "2026-08-28T15:37:53Z",
                 "owner": "hashgraph",
                 "repo": "hedera-protobufs",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -588,7 +625,8 @@
                 "owner": "hiero-ledger",
                 "repo": "hiero-mirror-node-explorer",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -599,11 +637,12 @@
                 "archived": false,
                 "id": 751097461,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T18:57:53Z",
+                "last_commit": "2026-08-28T23:37:55Z",
                 "owner": "hiero-ledger",
                 "repo": "solo",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -618,7 +657,8 @@
                 "owner": "hiero-ledger",
                 "repo": "hiero-cli",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -633,7 +673,8 @@
                 "owner": "hashgraph",
                 "repo": "hedera-wallet-connect",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -644,11 +685,12 @@
                 "archived": false,
                 "id": 801196644,
                 "language": "Java",
-                "last_commit": "2026-08-27T23:19:44Z",
+                "last_commit": "2026-08-28T20:48:58Z",
                 "owner": "hiero-ledger",
                 "repo": "hiero-block-node",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -663,7 +705,8 @@
                 "owner": "hashgraph",
                 "repo": "ledger-app-hedera",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -678,7 +721,8 @@
                 "owner": "hashgraph",
                 "repo": "hedera-fee-tool-js",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -693,7 +737,8 @@
                 "owner": "hashgraph",
                 "repo": "hedera-sourcify",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -708,7 +753,8 @@
                 "owner": "hashgraph",
                 "repo": "hedera-smart-contracts-libs-lab",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -723,7 +769,8 @@
                 "owner": "hashgraph",
                 "repo": "hedera-the-graph",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -738,7 +785,8 @@
                 "owner": "hashgraph",
                 "repo": "hedera-grpcWeb-proxy",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -753,7 +801,8 @@
                 "owner": "hashingsystems",
                 "repo": "HNS",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             },
             {
               "node_type": "item",
@@ -768,7 +817,8 @@
                 "owner": "hedera-dev",
                 "repo": "hedera-cheatsheets",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
             }
           ],
           "description": null,
@@ -800,7 +850,8 @@
                         "owner": "hashgraph",
                         "repo": "hedera-accelerator-defi-dex-ui",
                         "stars": 15
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:56:25.279Z"
                     }
                   ],
                   "repo_info": {
@@ -811,7 +862,8 @@
                     "owner": "hashgraph",
                     "repo": "hedera-accelerator-defi-dex",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:25.279Z"
                 }
               ]
             },
@@ -833,7 +885,8 @@
                     "owner": "hashgraph",
                     "repo": "asset-tokenization-studio",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:25.279Z"
                 }
               ]
             },
@@ -855,7 +908,8 @@
                     "owner": "hashgraph",
                     "repo": "hedera-accelerator-rwa-defi-be",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:56:25.279Z"
                 }
               ]
             }
@@ -869,7 +923,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:25:53.330Z",
+    "last_updated": "2026-08-29T00:56:25.279Z",
     "original_repository_info": {
       "archived": false,
       "id": 108934391,
