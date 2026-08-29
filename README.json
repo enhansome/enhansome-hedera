@@ -54,7 +54,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T07:52:49Z",
-                "open_issues": 58,
+                "open_issues": 59,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-java",
                 "stars": 262,
@@ -1017,8 +1017,8 @@
                 "id": 801196644,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T02:04:49Z",
-                "open_issues": 527,
+                "last_commit": "2026-08-29T17:28:52Z",
+                "open_issues": 531,
                 "owner": "hiero-ledger",
                 "repo": "hiero-block-node",
                 "stars": 37,
@@ -1344,7 +1344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:49:36.388Z",
+    "last_updated": "2026-08-29T19:40:50.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hedera is an open-source, layer 1, EVM-compatible blockchain network. It supports smart contracts just like Ethereum does, and also offers several additional native services. The network is governed by leading organizations around the world.",
