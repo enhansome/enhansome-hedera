@@ -160,7 +160,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-13T00:23:34Z",
-                "open_issues": 90,
+                "open_issues": 91,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-cpp",
                 "stars": 41,
@@ -1344,7 +1344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:40:50.472Z",
+    "last_updated": "2026-08-30T19:45:21.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hedera is an open-source, layer 1, EVM-compatible blockchain network. It supports smart contracts just like Ethereum does, and also offers several additional native services. The network is governed by leading organizations around the world.",

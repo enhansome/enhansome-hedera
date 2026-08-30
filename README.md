@@ -88,7 +88,7 @@ This section features open source projects in the [Hedera](https://www.hedera.co
 * [Go SDK](https://github.com/hiero-ledger/hiero-sdk-go) ⭐ 128 | 🐛 34 | 🌐 Go | 📅 2026-08-24 - the official Go SDK for interacting with Hedera.
 * [Rust SDK](https://github.com/hashgraph/hedera-sdk-rust) ⭐ 59 | 🐛 82 | 🌐 Rust | 📅 2026-08-05 - the official Rust SDK for interacting with Hedera.
 * [DiD SDK (JavaScript)](https://github.com/hashgraph/did-sdk-js) ⭐ 43 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-15 - Javascript SDK for managing DID Documents & Verifiable Credentials.
-* [C++ SDK](https://github.com/hiero-ledger/hiero-sdk-cpp) ⭐ 41 | 🐛 90 | 🌐 C++ | 📅 2026-08-13 - the official C++ SDK for interacting with Hedera.
+* [C++ SDK](https://github.com/hiero-ledger/hiero-sdk-cpp) ⭐ 41 | 🐛 91 | 🌐 C++ | 📅 2026-08-13 - the official C++ SDK for interacting with Hedera.
 * [Swift SDK](https://github.com/hiero-ledger/hiero-sdk-swift) ⭐ 36 | 🐛 46 | 🌐 Swift | 📅 2026-08-10 - the official Swift SDK for interacting with Hedera.
 * [DiD SDK (Java)](https://github.com/hashgraph/did-sdk-java) ⭐ 36 | 🐛 10 | 🌐 Java | 📅 2024-06-01 - Java SDK for managing DID Documents & Verifiable Credentials.
 * [DiD Method](https://github.com/hashgraph/did-method) ⭐ 28 | 🐛 4 | 📅 2025-01-14 - This repository contains the Hedera DID method specification.
@@ -386,4 +386,4 @@ When submitting, please try to maintain the existing structure and alphabetical 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
