@@ -17,8 +17,8 @@
                 "id": 198903637,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T14:51:46Z",
-                "open_issues": 85,
+                "last_commit": "2026-09-02T08:47:26Z",
+                "open_issues": 84,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-js",
                 "stars": 328,
@@ -53,8 +53,8 @@
                 "id": 152455526,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T13:22:15Z",
-                "open_issues": 55,
+                "last_commit": "2026-09-02T10:06:23Z",
+                "open_issues": 52,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-java",
                 "stars": 262,
@@ -82,8 +82,8 @@
                 "id": 231656330,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T07:17:57Z",
-                "open_issues": 34,
+                "last_commit": "2026-09-02T08:53:19Z",
+                "open_issues": 36,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-go",
                 "stars": 128,
@@ -286,7 +286,7 @@
                 "open_issues": 186,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-tck",
-                "stars": 23,
+                "stars": 24,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -533,7 +533,7 @@
                 "open_issues": 3,
                 "owner": "hashgraph",
                 "repo": "hedera-subgraph-example",
-                "stars": 6,
+                "stars": 7,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -881,8 +881,8 @@
                     "id": 562238140,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-01T18:59:46Z",
-                    "open_issues": 89,
+                    "last_commit": "2026-09-02T11:52:54Z",
+                    "open_issues": 90,
                     "owner": "hashgraph",
                     "repo": "pbj",
                     "stars": 44,
@@ -923,8 +923,8 @@
                 "id": 484202398,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T15:23:37Z",
-                "open_issues": 111,
+                "last_commit": "2026-09-02T08:20:19Z",
+                "open_issues": 109,
                 "owner": "hiero-ledger",
                 "repo": "hiero-mirror-node-explorer",
                 "stars": 48,
@@ -946,8 +946,8 @@
                 "id": 751097461,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T19:50:26Z",
-                "open_issues": 279,
+                "last_commit": "2026-09-02T18:43:11Z",
+                "open_issues": 286,
                 "owner": "hiero-ledger",
                 "repo": "solo",
                 "stars": 43,
@@ -998,7 +998,7 @@
                 "open_issues": 18,
                 "owner": "hashgraph",
                 "repo": "hedera-wallet-connect",
-                "stars": 40,
+                "stars": 41,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -1017,11 +1017,11 @@
                 "id": 801196644,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T19:34:05Z",
-                "open_issues": 519,
+                "last_commit": "2026-09-02T18:47:54Z",
+                "open_issues": 518,
                 "owner": "hiero-ledger",
                 "repo": "hiero-block-node",
-                "stars": 37,
+                "stars": 38,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -1294,7 +1294,7 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-21T11:50:10Z",
-                    "open_issues": 72,
+                    "open_issues": 74,
                     "owner": "hashgraph",
                     "repo": "asset-tokenization-studio",
                     "stars": 32,
@@ -1344,7 +1344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:52:11.728Z",
+    "last_updated": "2026-09-02T19:42:38.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hedera is an open-source, layer 1, EVM-compatible blockchain network. It supports smart contracts just like Ethereum does, and also offers several additional native services. The network is governed by leading organizations around the world.",
