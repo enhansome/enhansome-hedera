@@ -53,8 +53,8 @@
                 "id": 152455526,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T11:57:53Z",
-                "open_issues": 54,
+                "last_commit": "2026-09-07T10:04:55Z",
+                "open_issues": 57,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-java",
                 "stars": 262,
@@ -82,8 +82,8 @@
                 "id": 231656330,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T06:56:33Z",
-                "open_issues": 35,
+                "last_commit": "2026-09-07T08:53:12Z",
+                "open_issues": 37,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-go",
                 "stars": 128,
@@ -283,7 +283,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-26T15:28:59Z",
-                "open_issues": 186,
+                "open_issues": 187,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-tck",
                 "stars": 24,
@@ -459,7 +459,7 @@
                 "language": "Solidity",
                 "license": null,
                 "last_commit": "2025-12-24T17:25:09Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "hedera-dev",
                 "repo": "hedera-code-snippets",
                 "stars": 17,
@@ -866,6 +866,29 @@
             },
             {
               "node_type": "item",
+              "title": "HashScan",
+              "description": "Visual Explorer for the Hiero DLT.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Hedera Mirror Node Explorer for the Hedera Hashgraph DLT.",
+                "homepage": null,
+                "id": 484202398,
+                "language": "TypeScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-03T12:51:35Z",
+                "open_issues": 108,
+                "owner": "hiero-ledger",
+                "repo": "hiero-mirror-node-explorer",
+                "stars": 49,
+                "topics": [
+                  "hacktoberfest"
+                ]
+              },
+              "first_seen": "2026-08-29T00:56:25.279Z"
+            },
+            {
+              "node_type": "item",
               "title": "Hedera Protobufs",
               "description": "Authoritative source of Hedera protobufs which represent the core of the Hedera Services API and enables developers to build libraries and SDKs in a multitude of development languages.",
               "children": [
@@ -881,8 +904,8 @@
                     "id": 562238140,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-04T11:53:30Z",
-                    "open_issues": 102,
+                    "last_commit": "2026-09-07T11:54:19Z",
+                    "open_issues": 103,
                     "owner": "hashgraph",
                     "repo": "pbj",
                     "stars": 44,
@@ -905,29 +928,6 @@
                 "owner": "hashgraph",
                 "repo": "hedera-protobufs",
                 "stars": 49,
-                "topics": [
-                  "hacktoberfest"
-                ]
-              },
-              "first_seen": "2026-08-29T00:56:25.279Z"
-            },
-            {
-              "node_type": "item",
-              "title": "HashScan",
-              "description": "Visual Explorer for the Hiero DLT.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Hedera Mirror Node Explorer for the Hedera Hashgraph DLT.",
-                "homepage": null,
-                "id": 484202398,
-                "language": "TypeScript",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-03T12:51:35Z",
-                "open_issues": 108,
-                "owner": "hiero-ledger",
-                "repo": "hiero-mirror-node-explorer",
-                "stars": 48,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -969,8 +969,8 @@
                 "id": 204660118,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-20T22:14:31Z",
-                "open_issues": 84,
+                "last_commit": "2026-09-07T13:30:34Z",
+                "open_issues": 85,
                 "owner": "hiero-ledger",
                 "repo": "hiero-cli",
                 "stars": 43,
@@ -1017,8 +1017,8 @@
                 "id": 801196644,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T18:24:56Z",
-                "open_issues": 507,
+                "last_commit": "2026-09-07T18:20:50Z",
+                "open_issues": 514,
                 "owner": "hiero-ledger",
                 "repo": "hiero-block-node",
                 "stars": 38,
@@ -1156,8 +1156,8 @@
                 "id": 528113262,
                 "language": "JavaScript",
                 "license": null,
-                "last_commit": "2026-09-03T12:47:07Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-07T00:43:06Z",
+                "open_issues": 17,
                 "owner": "hashgraph",
                 "repo": "hedera-grpcWeb-proxy",
                 "stars": 4,
@@ -1344,7 +1344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T19:03:10.177Z",
+    "last_updated": "2026-09-07T20:29:10.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hedera is an open-source, layer 1, EVM-compatible blockchain network. It supports smart contracts just like Ethereum does, and also offers several additional native services. The network is governed by leading organizations around the world.",
