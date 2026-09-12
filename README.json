@@ -160,7 +160,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-10T11:48:29Z",
-                "open_issues": 92,
+                "open_issues": 91,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-cpp",
                 "stars": 42,
@@ -240,7 +240,7 @@
                 "open_issues": 10,
                 "owner": "hashgraph",
                 "repo": "did-sdk-java",
-                "stars": 36,
+                "stars": 37,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -283,7 +283,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-09T12:31:08Z",
-                "open_issues": 185,
+                "open_issues": 186,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-tck",
                 "stars": 24,
@@ -1017,7 +1017,7 @@
                 "id": 801196644,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T16:27:56Z",
+                "last_commit": "2026-09-12T04:11:07Z",
                 "open_issues": 517,
                 "owner": "hiero-ledger",
                 "repo": "hiero-block-node",
@@ -1294,7 +1294,7 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-08-21T11:50:10Z",
-                    "open_issues": 81,
+                    "open_issues": 84,
                     "owner": "hashgraph",
                     "repo": "asset-tokenization-studio",
                     "stars": 33,
@@ -1344,7 +1344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:34:32.490Z",
+    "last_updated": "2026-09-12T19:11:04.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hedera is an open-source, layer 1, EVM-compatible blockchain network. It supports smart contracts just like Ethereum does, and also offers several additional native services. The network is governed by leading organizations around the world.",
