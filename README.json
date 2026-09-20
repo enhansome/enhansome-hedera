@@ -389,7 +389,7 @@
                 "open_issues": 2,
                 "owner": "hashgraph",
                 "repo": "hedera-smart-contract-starter",
-                "stars": 42,
+                "stars": 43,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -1297,7 +1297,7 @@
                     "open_issues": 88,
                     "owner": "hashgraph",
                     "repo": "asset-tokenization-studio",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:56:25.279Z"
@@ -1344,7 +1344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T19:16:57.400Z",
+    "last_updated": "2026-09-20T19:21:05.369Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hedera is an open-source, layer 1, EVM-compatible blockchain network. It supports smart contracts just like Ethereum does, and also offers several additional native services. The network is governed by leading organizations around the world.",

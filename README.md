@@ -100,7 +100,7 @@ This section features open source projects in the [Hedera](https://www.hedera.co
 ### **Examples and Demos**
 
 * [HTS Demo](https://github.com/hashgraph/hedera-hts-demo) ⭐ 79 | 🐛 17 | 🌐 Vue | 📅 2025-01-14 - This demo is a user interface written in Javascript (Vue.JS) to illustrate the use of the Hedera Token Service.
-* [Hedera Smart Contract Starter](https://github.com/hashgraph/hedera-smart-contract-starter) ⭐ 42 | 🐛 2 | 🌐 TypeScript | 📅 2025-01-15 - This project provides a hands-on demonstration of using upgradeable smart contracts with OpenZeppelin's upgrades plugins in Hardhat. Specifically, it is a smart contract starter project that illustrates the use of both Proxies and Beacon Proxies.
+* [Hedera Smart Contract Starter](https://github.com/hashgraph/hedera-smart-contract-starter) ⭐ 43 | 🐛 2 | 🌐 TypeScript | 📅 2025-01-15 - This project provides a hands-on demonstration of using upgradeable smart contracts with OpenZeppelin's upgrades plugins in Hardhat. Specifically, it is a smart contract starter project that illustrates the use of both Proxies and Beacon Proxies.
 * [HCS Chat application](https://github.com/hashgraph/hedera-hcs-chat-js) ⭐ 37 | 🐛 12 | 🌐 JavaScript | 📅 2025-01-14 - An example web app which demonstrates how you can use decentralized pub-sub messaging on the Hedera Consensus Service.
 * [Proof of Action microservice](https://github.com/hashgraph/hedera-proof-of-action-microservice) ⭐ 26 | 🐛 0 | 🌐 Java | 📅 2024-10-31 - The Hedera Proof of Action (HPoA) microservice aims to make it easy for organizations to build a capability to record and subsequently prove the existence of business events using the Hedera Consensus Service.
 * [Code snippets](https://github.com/hedera-dev/hedera-code-snippets) ⭐ 17 | 🐛 1 | 🌐 Solidity | 📅 2025-12-24 - Short, Self Contained, Correct Examples of code on Hedera.
@@ -162,7 +162,7 @@ This section features open source projects in the [Hedera](https://www.hedera.co
   * <https://github.com/hashgraph/hedera-accelerator-defi-dex> ⭐ 8 | 🐛 20 | 🌐 TypeScript | 📅 2026-07-15
     * <https://github.com/hashgraph/hedera-accelerator-defi-dex-ui> ⭐ 15 | 🐛 24 | 🌐 TypeScript | 📅 2026-01-15
 * RWA
-  * [Asset Tokenization Studio](https://github.com/hashgraph/asset-tokenization-studio) ⭐ 33 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-16 - Asset Tokenization Studio is a set of open-source smart contracts and SDK that makes it easy for asset issuers to manage bonds and equities in a regulatory-compliant manner with additional on-chain visibility on the Hedera network.
+  * [Asset Tokenization Studio](https://github.com/hashgraph/asset-tokenization-studio) ⭐ 34 | 🐛 88 | 🌐 TypeScript | 📅 2026-09-16 - Asset Tokenization Studio is a set of open-source smart contracts and SDK that makes it easy for asset issuers to manage bonds and equities in a regulatory-compliant manner with additional on-chain visibility on the Hedera network.
 * DeFi
   * [Smart contracts for EIP 3643 & EIP 4626 that can be used on Hedera's EVM](https://github.com/hashgraph/hedera-accelerator-defi-eip) ⭐ 4 | 🐛 11 | 🌐 Solidity | 📅 2026-05-07
 
@@ -386,4 +386,4 @@ When submitting, please try to maintain the existing structure and alphabetical 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
