@@ -137,7 +137,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-10T11:48:29Z",
-                "open_issues": 91,
+                "open_issues": 94,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-cpp",
                 "stars": 43,
@@ -880,7 +880,7 @@
                 "open_issues": 107,
                 "owner": "hiero-ledger",
                 "repo": "hiero-mirror-node-explorer",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -904,8 +904,8 @@
                     "id": 562238140,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-21T20:56:30Z",
-                    "open_issues": 102,
+                    "last_commit": "2026-09-22T18:25:12Z",
+                    "open_issues": 101,
                     "owner": "hashgraph",
                     "repo": "pbj",
                     "stars": 44,
@@ -946,8 +946,8 @@
                 "id": 751097461,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T19:20:05Z",
-                "open_issues": 271,
+                "last_commit": "2026-09-22T19:42:51Z",
+                "open_issues": 277,
                 "owner": "hiero-ledger",
                 "repo": "solo",
                 "stars": 44,
@@ -1017,8 +1017,8 @@
                 "id": 801196644,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T19:32:32Z",
-                "open_issues": 527,
+                "last_commit": "2026-09-22T06:01:56Z",
+                "open_issues": 526,
                 "owner": "hiero-ledger",
                 "repo": "hiero-block-node",
                 "stars": 38,
@@ -1344,7 +1344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:58:38.397Z",
+    "last_updated": "2026-09-22T20:07:08.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hedera is an open-source, layer 1, EVM-compatible blockchain network. It supports smart contracts just like Ethereum does, and also offers several additional native services. The network is governed by leading organizations around the world.",
