@@ -585,7 +585,7 @@
             {
               "node_type": "item",
               "title": "Bridging with Layer Zero",
-              "description": null,
+              "description": "hedera-dev/tutorial-js-layer-zero-bridging-oapp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -606,7 +606,7 @@
             {
               "node_type": "item",
               "title": "Chainlink price feeds",
-              "description": null,
+              "description": "hedera-dev/tutorial-js-chainlink-price-feeds",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -946,8 +946,8 @@
                 "id": 751097461,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T19:49:37Z",
-                "open_issues": 243,
+                "last_commit": "2026-10-03T01:01:06Z",
+                "open_issues": 242,
                 "owner": "hiero-ledger",
                 "repo": "solo",
                 "stars": 44,
@@ -1017,8 +1017,8 @@
                 "id": 801196644,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T18:37:49Z",
-                "open_issues": 576,
+                "last_commit": "2026-10-03T04:03:44Z",
+                "open_issues": 574,
                 "owner": "hiero-ledger",
                 "repo": "hiero-block-node",
                 "stars": 38,
@@ -1191,7 +1191,7 @@
             {
               "node_type": "item",
               "title": "Hackathon EVM starter sheet",
-              "description": null,
+              "description": "hedera-dev/hedera-cheatsheets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1224,12 +1224,12 @@
                 {
                   "node_type": "item",
                   "title": "hashgraph/hedera-accelerator-defi-dex",
-                  "description": null,
+                  "description": "hashgraph/hedera-accelerator-defi-dex",
                   "children": [
                     {
                       "node_type": "item",
                       "title": "hashgraph/hedera-accelerator-defi-dex-ui",
-                      "description": null,
+                      "description": "hashgraph/hedera-accelerator-defi-dex-ui",
                       "children": [],
                       "repo_info": {
                         "archived": false,
@@ -1312,7 +1312,7 @@
                 {
                   "node_type": "item",
                   "title": "Smart contracts for EIP 3643 & EIP 4626 that can be used on Hedera's EVM",
-                  "description": null,
+                  "description": "hashgraph/hedera-accelerator-rwa-defi-be",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1344,7 +1344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:16:36.563Z",
+    "last_updated": "2026-10-03T04:47:22.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hedera is an open-source, layer 1, EVM-compatible blockchain network. It supports smart contracts just like Ethereum does, and also offers several additional native services. The network is governed by leading organizations around the world.",
