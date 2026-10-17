@@ -83,7 +83,7 @@ This section features open source projects in the [Hedera](https://www.hedera.co
 
 ### **Software Development Kits (SDKs)**
 
-* [JavaScript SDK](https://github.com/hiero-ledger/hiero-sdk-js) ⭐ 330 | 🐛 47 | 🌐 JavaScript | 📅 2026-10-16 - the official JavaScript SDK for interacting with Hedera.
+* [JavaScript SDK](https://github.com/hiero-ledger/hiero-sdk-js) ⭐ 330 | 🐛 52 | 🌐 JavaScript | 📅 2026-10-16 - the official JavaScript SDK for interacting with Hedera.
 * [Java SDK](https://github.com/hiero-ledger/hiero-sdk-java) ⭐ 264 | 🐛 42 | 🌐 Java | 📅 2026-10-16 - the official Java SDK for interacting with Hedera.
 * [Go SDK](https://github.com/hiero-ledger/hiero-sdk-go) ⭐ 128 | 🐛 28 | 🌐 Go | 📅 2026-10-16 - the official Go SDK for interacting with Hedera.
 * [Rust SDK](https://github.com/hashgraph/hedera-sdk-rust) ⭐ 58 | 🐛 89 | 🌐 Rust | 📅 2026-09-14 - the official Rust SDK for interacting with Hedera.
@@ -135,7 +135,7 @@ This section features open source projects in the [Hedera](https://www.hedera.co
 * [Solo](https://github.com/hashgraph/solo) ⭐ 44 | 🐛 222 | 🌐 TypeScript | 📅 2026-10-16 - An opinionated CLI tool to deploy and manage standalone test networks.
 * [Hedera CLI](https://github.com/hashgraph/hedera-cli) ⭐ 44 | 🐛 90 | 🌐 TypeScript | 📅 2026-10-01 - A simple, open source, command line interface for interacting with both the Hedera Mainnet and Testnet.
 * [Walletconnect](https://github.com/hashgraph/hedera-wallet-connect) ⭐ 42 | 🐛 18 | 🌐 TypeScript | 📅 2026-07-13 - This repository is a reference for wallets and dApps integrating the WalletConnect <> Hedera JSON-RPC reference.
-* [Block Node](https://github.com/hashgraph/hedera-block-node) ⭐ 38 | 🐛 567 | 🌐 Java | 📅 2026-10-16 - Implementation of the Hedera Block Node, which is responsible for consuming the block streams, maintaining state and exposing additional targeted value adding APIs to the Hedera community.
+* [Block Node](https://github.com/hashgraph/hedera-block-node) ⭐ 38 | 🐛 566 | 🌐 Java | 📅 2026-10-17 - Implementation of the Hedera Block Node, which is responsible for consuming the block streams, maintaining state and exposing additional targeted value adding APIs to the Hedera community.
 * [Hedera Ledger App](https://github.com/hashgraph/ledger-app-hedera) ⭐ 16 | 🐛 5 | 🌐 C | 📅 2025-01-14 - Hedera wallet application for Ledger Nano S
 * [Hedera Fee Tool](https://github.com/hashgraph/hedera-fee-tool-js) ⭐ 11 | 🐛 9 | 🌐 JavaScript | 📅 2026-01-28 - Tool to calculate price of transactions on Hedera network.
 * [Sourcify](https://github.com/hashgraph/hedera-sourcify) ⚠️ Archived - Tools for verifying Hedera smart contracts using standard open source libraries.
@@ -386,4 +386,4 @@ When submitting, please try to maintain the existing structure and alphabetical 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
