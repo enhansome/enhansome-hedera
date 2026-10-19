@@ -83,8 +83,8 @@ This section features open source projects in the [Hedera](https://www.hedera.co
 
 ### **Software Development Kits (SDKs)**
 
-* [JavaScript SDK](https://github.com/hiero-ledger/hiero-sdk-js) ⭐ 330 | 🐛 52 | 🌐 JavaScript | 📅 2026-10-16 - the official JavaScript SDK for interacting with Hedera.
-* [Java SDK](https://github.com/hiero-ledger/hiero-sdk-java) ⭐ 264 | 🐛 43 | 🌐 Java | 📅 2026-10-16 - the official Java SDK for interacting with Hedera.
+* [JavaScript SDK](https://github.com/hiero-ledger/hiero-sdk-js) ⭐ 330 | 🐛 51 | 🌐 JavaScript | 📅 2026-10-19 - the official JavaScript SDK for interacting with Hedera.
+* [Java SDK](https://github.com/hiero-ledger/hiero-sdk-java) ⭐ 264 | 🐛 45 | 🌐 Java | 📅 2026-10-19 - the official Java SDK for interacting with Hedera.
 * [Go SDK](https://github.com/hiero-ledger/hiero-sdk-go) ⭐ 128 | 🐛 28 | 🌐 Go | 📅 2026-10-16 - the official Go SDK for interacting with Hedera.
 * [Rust SDK](https://github.com/hashgraph/hedera-sdk-rust) ⭐ 58 | 🐛 89 | 🌐 Rust | 📅 2026-09-14 - the official Rust SDK for interacting with Hedera.
 * [C++ SDK](https://github.com/hiero-ledger/hiero-sdk-cpp) ⭐ 42 | 🐛 86 | 🌐 C++ | 📅 2026-10-12 - the official C++ SDK for interacting with Hedera.
@@ -92,7 +92,7 @@ This section features open source projects in the [Hedera](https://www.hedera.co
 * [Swift SDK](https://github.com/hiero-ledger/hiero-sdk-swift) ⭐ 36 | 🐛 53 | 🌐 Swift | 📅 2026-09-10 - the official Swift SDK for interacting with Hedera.
 * [DiD SDK (Java)](https://github.com/hashgraph/did-sdk-java) ⭐ 36 | 🐛 10 | 🌐 Java | 📅 2024-06-01 - Java SDK for managing DID Documents & Verifiable Credentials.
 * [DiD Method](https://github.com/hashgraph/did-method) ⭐ 27 | 🐛 4 | 📅 2025-01-14 - This repository contains the Hedera DID method specification.
-* [SDK TCK](https://github.com/hiero-ledger/hiero-sdk-tck) ⭐ 23 | 🐛 191 | 🌐 TypeScript | 📅 2026-10-15 - A TCK (Technology Compatibility Kit) used to verify compliant implementations of a Hiero SDK.
+* [SDK TCK](https://github.com/hiero-ledger/hiero-sdk-tck) ⭐ 23 | 🐛 192 | 🌐 TypeScript | 📅 2026-10-19 - A TCK (Technology Compatibility Kit) used to verify compliant implementations of a Hiero SDK.
 * [NFT SDK](https://github.com/hashgraph/hedera-nft-sdk) ⭐ 12 | 🐛 10 | 🌐 TypeScript | 📅 2026-07-15 - Hedera NFT Utilities SDK for JavaScript
 * [Hedera Custodians Library](https://github.com/hashgraph/hedera-custodians-library) ⭐ 6 | 🐛 33 | 🌐 TypeScript | 📅 2026-05-08 - The hedera-custodians-library library is a Typescript utility designed to simplify custodial wallet management. It provides developers with tools to abstract complex aspects of custodial wallets, allowing them to focus on their application's core logic.
 * Python SDK - Work in progress.
@@ -128,14 +128,14 @@ This section features open source projects in the [Hedera](https://www.hedera.co
 ### **References and Resources**
 
 * [Hedera Local Node](https://github.com/hashgraph/hedera-local-node) ⭐ 261 | 🐛 152 | 🌐 TypeScript | 📅 2026-08-17 - Run your own local Hedera network for development purposes.
-* [HashScan](https://github.com/hashgraph/hedera-mirror-node-explorer) ⭐ 51 | 🐛 108 | 🌐 TypeScript | 📅 2026-10-16 - Visual Explorer for the Hiero DLT.
+* [HashScan](https://github.com/hashgraph/hedera-mirror-node-explorer) ⭐ 51 | 🐛 107 | 🌐 TypeScript | 📅 2026-10-19 - Visual Explorer for the Hiero DLT.
   * <https://hashscan.io/mainnet/dashboard>
-* [Hedera Protobufs](https://github.com/hashgraph/hedera-protobufs) ⭐ 48 | 🐛 6 | 🌐 Shell | 📅 2026-10-15 - Authoritative source of Hedera protobufs which represent the core of the Hedera Services API and enables developers to build libraries and SDKs in a multitude of development languages.
-  * [Google Protocol Buffers](https://github.com/hashgraph/pbj) ⭐ 44 | 🐛 88 | 🌐 Java | 📅 2026-10-16 code generator, parser, and Gradle module.
-* [Solo](https://github.com/hashgraph/solo) ⭐ 44 | 🐛 223 | 🌐 TypeScript | 📅 2026-10-16 - An opinionated CLI tool to deploy and manage standalone test networks.
-* [Hedera CLI](https://github.com/hashgraph/hedera-cli) ⭐ 44 | 🐛 90 | 🌐 TypeScript | 📅 2026-10-01 - A simple, open source, command line interface for interacting with both the Hedera Mainnet and Testnet.
+* [Hedera Protobufs](https://github.com/hashgraph/hedera-protobufs) ⭐ 48 | 🐛 6 | 🌐 Shell | 📅 2026-10-19 - Authoritative source of Hedera protobufs which represent the core of the Hedera Services API and enables developers to build libraries and SDKs in a multitude of development languages.
+  * [Google Protocol Buffers](https://github.com/hashgraph/pbj) ⭐ 44 | 🐛 88 | 🌐 Java | 📅 2026-10-19 code generator, parser, and Gradle module.
+* [Solo](https://github.com/hashgraph/solo) ⭐ 45 | 🐛 225 | 🌐 TypeScript | 📅 2026-10-19 - An opinionated CLI tool to deploy and manage standalone test networks.
+* [Hedera CLI](https://github.com/hashgraph/hedera-cli) ⭐ 45 | 🐛 90 | 🌐 TypeScript | 📅 2026-10-01 - A simple, open source, command line interface for interacting with both the Hedera Mainnet and Testnet.
 * [Walletconnect](https://github.com/hashgraph/hedera-wallet-connect) ⭐ 42 | 🐛 18 | 🌐 TypeScript | 📅 2026-07-13 - This repository is a reference for wallets and dApps integrating the WalletConnect <> Hedera JSON-RPC reference.
-* [Block Node](https://github.com/hashgraph/hedera-block-node) ⭐ 38 | 🐛 566 | 🌐 Java | 📅 2026-10-17 - Implementation of the Hedera Block Node, which is responsible for consuming the block streams, maintaining state and exposing additional targeted value adding APIs to the Hedera community.
+* [Block Node](https://github.com/hashgraph/hedera-block-node) ⭐ 38 | 🐛 564 | 🌐 Java | 📅 2026-10-19 - Implementation of the Hedera Block Node, which is responsible for consuming the block streams, maintaining state and exposing additional targeted value adding APIs to the Hedera community.
 * [Hedera Ledger App](https://github.com/hashgraph/ledger-app-hedera) ⭐ 16 | 🐛 5 | 🌐 C | 📅 2025-01-14 - Hedera wallet application for Ledger Nano S
 * [Hedera Fee Tool](https://github.com/hashgraph/hedera-fee-tool-js) ⭐ 11 | 🐛 9 | 🌐 JavaScript | 📅 2026-01-28 - Tool to calculate price of transactions on Hedera network.
 * [Sourcify](https://github.com/hashgraph/hedera-sourcify) ⚠️ Archived - Tools for verifying Hedera smart contracts using standard open source libraries.
@@ -162,7 +162,7 @@ This section features open source projects in the [Hedera](https://www.hedera.co
   * <https://github.com/hashgraph/hedera-accelerator-defi-dex> ⭐ 8 | 🐛 20 | 🌐 TypeScript | 📅 2026-07-15
     * <https://github.com/hashgraph/hedera-accelerator-defi-dex-ui> ⭐ 15 | 🐛 24 | 🌐 TypeScript | 📅 2026-01-15
 * RWA
-  * [Asset Tokenization Studio](https://github.com/hashgraph/asset-tokenization-studio) ⭐ 34 | 🐛 85 | 🌐 TypeScript | 📅 2026-10-14 - Asset Tokenization Studio is a set of open-source smart contracts and SDK that makes it easy for asset issuers to manage bonds and equities in a regulatory-compliant manner with additional on-chain visibility on the Hedera network.
+  * [Asset Tokenization Studio](https://github.com/hashgraph/asset-tokenization-studio) ⭐ 35 | 🐛 85 | 🌐 TypeScript | 📅 2026-10-19 - Asset Tokenization Studio is a set of open-source smart contracts and SDK that makes it easy for asset issuers to manage bonds and equities in a regulatory-compliant manner with additional on-chain visibility on the Hedera network.
 * DeFi
   * [Smart contracts for EIP 3643 & EIP 4626 that can be used on Hedera's EVM](https://github.com/hashgraph/hedera-accelerator-defi-eip) ⭐ 4 | 🐛 11 | 🌐 Solidity | 📅 2026-05-07
 
@@ -386,4 +386,4 @@ When submitting, please try to maintain the existing structure and alphabetical 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
