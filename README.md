@@ -83,7 +83,7 @@ This section features open source projects in the [Hedera](https://www.hedera.co
 
 ### **Software Development Kits (SDKs)**
 
-* [JavaScript SDK](https://github.com/hiero-ledger/hiero-sdk-js) ⭐ 330 | 🐛 53 | 🌐 JavaScript | 📅 2026-10-23 - the official JavaScript SDK for interacting with Hedera.
+* [JavaScript SDK](https://github.com/hiero-ledger/hiero-sdk-js) ⭐ 330 | 🐛 57 | 🌐 JavaScript | 📅 2026-10-23 - the official JavaScript SDK for interacting with Hedera.
 * [Java SDK](https://github.com/hiero-ledger/hiero-sdk-java) ⭐ 264 | 🐛 41 | 🌐 Java | 📅 2026-10-22 - the official Java SDK for interacting with Hedera.
 * [Go SDK](https://github.com/hiero-ledger/hiero-sdk-go) ⭐ 128 | 🐛 32 | 🌐 Go | 📅 2026-10-22 - the official Go SDK for interacting with Hedera.
 * [Rust SDK](https://github.com/hashgraph/hedera-sdk-rust) ⭐ 58 | 🐛 90 | 🌐 Rust | 📅 2026-09-14 - the official Rust SDK for interacting with Hedera.
@@ -132,10 +132,10 @@ This section features open source projects in the [Hedera](https://www.hedera.co
   * <https://hashscan.io/mainnet/dashboard>
 * [Hedera Protobufs](https://github.com/hashgraph/hedera-protobufs) ⭐ 48 | 🐛 6 | 🌐 Shell | 📅 2026-10-23 - Authoritative source of Hedera protobufs which represent the core of the Hedera Services API and enables developers to build libraries and SDKs in a multitude of development languages.
   * [Google Protocol Buffers](https://github.com/hashgraph/pbj) ⭐ 44 | 🐛 90 | 🌐 Java | 📅 2026-10-23 code generator, parser, and Gradle module.
-* [Solo](https://github.com/hashgraph/solo) ⭐ 45 | 🐛 194 | 🌐 TypeScript | 📅 2026-10-23 - An opinionated CLI tool to deploy and manage standalone test networks.
+* [Solo](https://github.com/hashgraph/solo) ⭐ 45 | 🐛 197 | 🌐 TypeScript | 📅 2026-10-24 - An opinionated CLI tool to deploy and manage standalone test networks.
 * [Hedera CLI](https://github.com/hashgraph/hedera-cli) ⭐ 45 | 🐛 92 | 🌐 TypeScript | 📅 2026-10-22 - A simple, open source, command line interface for interacting with both the Hedera Mainnet and Testnet.
 * [Walletconnect](https://github.com/hashgraph/hedera-wallet-connect) ⭐ 42 | 🐛 18 | 🌐 TypeScript | 📅 2026-07-13 - This repository is a reference for wallets and dApps integrating the WalletConnect <> Hedera JSON-RPC reference.
-* [Block Node](https://github.com/hashgraph/hedera-block-node) ⭐ 38 | 🐛 586 | 🌐 Java | 📅 2026-10-23 - Implementation of the Hedera Block Node, which is responsible for consuming the block streams, maintaining state and exposing additional targeted value adding APIs to the Hedera community.
+* [Block Node](https://github.com/hashgraph/hedera-block-node) ⭐ 38 | 🐛 588 | 🌐 Java | 📅 2026-10-24 - Implementation of the Hedera Block Node, which is responsible for consuming the block streams, maintaining state and exposing additional targeted value adding APIs to the Hedera community.
 * [Hedera Ledger App](https://github.com/hashgraph/ledger-app-hedera) ⭐ 16 | 🐛 5 | 🌐 C | 📅 2025-01-14 - Hedera wallet application for Ledger Nano S
 * [Hedera Fee Tool](https://github.com/hashgraph/hedera-fee-tool-js) ⭐ 11 | 🐛 9 | 🌐 JavaScript | 📅 2026-01-28 - Tool to calculate price of transactions on Hedera network.
 * [Sourcify](https://github.com/hashgraph/hedera-sourcify) ⚠️ Archived - Tools for verifying Hedera smart contracts using standard open source libraries.
@@ -377,8 +377,8 @@ Featuring projects built on top of or integrated with the [Hedera](https://www.h
 
 ## Contributing
 
-We're always looking for awesome projects that showcase Hedera! If you know of anything missing here, please [submit a pull request](https://github.com/hashgraph/awesome-hashgraph/pulls) ⭐ 324 | 🐛 8 | 📅 2025-02-10!\
-When submitting, please try to maintain the existing structure and alphabetical order where possible. If you need to change the structure or other "meta" alterations, please [create a new issue](https://github.com/hashgraph/awesome-hashgraph) ⭐ 324 | 🐛 8 | 📅 2025-02-10.
+We're always looking for awesome projects that showcase Hedera! If you know of anything missing here, please [submit a pull request](https://github.com/hashgraph/awesome-hashgraph/pulls) ⭐ 323 | 🐛 8 | 📅 2025-02-10!\
+When submitting, please try to maintain the existing structure and alphabetical order where possible. If you need to change the structure or other "meta" alterations, please [create a new issue](https://github.com/hashgraph/awesome-hashgraph) ⭐ 323 | 🐛 8 | 📅 2025-02-10.
 
 ## License
 
@@ -386,4 +386,4 @@ When submitting, please try to maintain the existing structure and alphabetical 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
