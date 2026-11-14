@@ -18,7 +18,7 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-13T15:28:48Z",
-                "open_issues": 52,
+                "open_issues": 54,
                 "owner": "hiero-ledger",
                 "repo": "hiero-sdk-js",
                 "stars": 336,
@@ -389,7 +389,7 @@
                 "open_issues": 2,
                 "owner": "hashgraph",
                 "repo": "hedera-smart-contract-starter",
-                "stars": 43,
+                "stars": 42,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -412,7 +412,7 @@
                 "open_issues": 12,
                 "owner": "hashgraph",
                 "repo": "hedera-hcs-chat-js",
-                "stars": 37,
+                "stars": 36,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -904,8 +904,8 @@
                     "id": 562238140,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-12T17:45:33Z",
-                    "open_issues": 135,
+                    "last_commit": "2026-11-14T01:49:09Z",
+                    "open_issues": 136,
                     "owner": "hashgraph",
                     "repo": "pbj",
                     "stars": 44,
@@ -1017,8 +1017,8 @@
                 "id": 801196644,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T21:38:55Z",
-                "open_issues": 616,
+                "last_commit": "2026-11-14T13:07:03Z",
+                "open_issues": 612,
                 "owner": "hiero-ledger",
                 "repo": "hiero-block-node",
                 "stars": 38,
@@ -1344,7 +1344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T22:29:51.925Z",
+    "last_updated": "2026-11-14T21:21:13.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "Hedera is an open-source, layer 1, EVM-compatible blockchain network. It supports smart contracts just like Ethereum does, and also offers several additional native services. The network is governed by leading organizations around the world.",
