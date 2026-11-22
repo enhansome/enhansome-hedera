@@ -85,7 +85,7 @@ This section features open source projects in the [Hedera](https://www.hedera.co
 
 * [JavaScript SDK](https://github.com/hiero-ledger/hiero-sdk-js) ⭐ 335 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-21 - the official JavaScript SDK for interacting with Hedera.
 * [Java SDK](https://github.com/hiero-ledger/hiero-sdk-java) ⭐ 266 | 🐛 44 | 🌐 Java | 📅 2026-11-20 - the official Java SDK for interacting with Hedera.
-* [Go SDK](https://github.com/hiero-ledger/hiero-sdk-go) ⭐ 128 | 🐛 44 | 🌐 Go | 📅 2026-11-20 - the official Go SDK for interacting with Hedera.
+* [Go SDK](https://github.com/hiero-ledger/hiero-sdk-go) ⭐ 128 | 🐛 47 | 🌐 Go | 📅 2026-11-20 - the official Go SDK for interacting with Hedera.
 * [Rust SDK](https://github.com/hashgraph/hedera-sdk-rust) ⭐ 58 | 🐛 90 | 🌐 Rust | 📅 2026-09-14 - the official Rust SDK for interacting with Hedera.
 * [C++ SDK](https://github.com/hiero-ledger/hiero-sdk-cpp) ⭐ 43 | 🐛 86 | 🌐 C++ | 📅 2026-10-12 - the official C++ SDK for interacting with Hedera.
 * [DiD SDK (JavaScript)](https://github.com/hashgraph/did-sdk-js) ⭐ 42 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-15 - Javascript SDK for managing DID Documents & Verifiable Credentials.
@@ -128,7 +128,7 @@ This section features open source projects in the [Hedera](https://www.hedera.co
 ### **References and Resources**
 
 * [Hedera Local Node](https://github.com/hashgraph/hedera-local-node) ⭐ 260 | 🐛 152 | 🌐 TypeScript | 📅 2026-08-17 - Run your own local Hedera network for development purposes.
-* [HashScan](https://github.com/hashgraph/hedera-mirror-node-explorer) ⭐ 52 | 🐛 131 | 🌐 TypeScript | 📅 2026-11-21 - Visual Explorer for the Hiero DLT.
+* [HashScan](https://github.com/hashgraph/hedera-mirror-node-explorer) ⭐ 52 | 🐛 125 | 🌐 TypeScript | 📅 2026-11-22 - Visual Explorer for the Hiero DLT.
   * <https://hashscan.io/mainnet/dashboard>
 * [Hedera Protobufs](https://github.com/hashgraph/hedera-protobufs) ⭐ 48 | 🐛 6 | 🌐 Shell | 📅 2026-11-21 - Authoritative source of Hedera protobufs which represent the core of the Hedera Services API and enables developers to build libraries and SDKs in a multitude of development languages.
   * [Google Protocol Buffers](https://github.com/hashgraph/pbj) ⭐ 44 | 🐛 134 | 🌐 Java | 📅 2026-11-20 code generator, parser, and Gradle module.
@@ -386,4 +386,4 @@ When submitting, please try to maintain the existing structure and alphabetical 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
